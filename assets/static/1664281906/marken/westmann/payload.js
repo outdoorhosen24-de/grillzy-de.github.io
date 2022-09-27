@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/westmann", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/westmann-feuerstelle-mit-abfanggitter-steinoptik-westmann-8346603-1.jpg":"\u002Fassets\u002Fimages\u002Fwestmann-feuerstelle-mit-abfanggitter-steinoptik-westmann-8346603-1.webp"}}],fetch:{},mutations:void 0});

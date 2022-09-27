@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/broil-king", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/broil-king-universalwerkzeug-keg-2000-broil-king-6017784-1.jpg":"\u002Fassets\u002Fimages\u002Fbroil-king-universalwerkzeug-keg-2000-broil-king-6017784-1.webp"}}],fetch:{},mutations:void 0});
