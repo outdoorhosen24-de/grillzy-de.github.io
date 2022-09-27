@@ -1,17 +1,52 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
+        "key": "weber",
+        "name": "Weber",
+        "slug": "weber",
+        "productCategory": "Weber",
+        "localThumb": "/assets/images/hersteller/weber.webp"
     },
     {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "e'lite",
+        "name": "e'lite",
+        "slug": "e-lite",
+        "productCategory": "e'lite",
+        "localThumb": "/assets/images/hersteller/e-lite.webp"
+    },
+    {
+        "key": "vasner",
+        "name": "Vasner",
+        "slug": "vasner",
+        "productCategory": "Vasner",
+        "localThumb": "/assets/images/hersteller/vasner.webp"
+    },
+    {
+        "key": "petromax",
+        "name": "Petromax",
+        "slug": "petromax",
+        "productCategory": "Petromax",
+        "localThumb": "/assets/images/hersteller/petromax.webp"
+    },
+    {
+        "key": "ferrum art design",
+        "name": "Ferrum Art Design",
+        "slug": "ferrum-art-design",
+        "productCategory": "Ferrum Art Design",
+        "localThumb": "/assets/images/hersteller/ferrum-art-design.webp"
+    },
+    {
+        "key": "enders",
+        "name": "Enders",
+        "slug": "enders",
+        "productCategory": "Enders",
+        "localThumb": "/assets/images/hersteller/enders.webp"
+    },
+    {
+        "key": "feuerhand",
+        "name": "Feuerhand",
+        "slug": "feuerhand",
+        "productCategory": "Feuerhand",
+        "localThumb": "/assets/images/hersteller/feuerhand.webp"
     },
     {
         "key": "sonstige",
@@ -21,39 +56,53 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "remundi",
+        "name": "Remundi",
+        "slug": "remundi",
+        "productCategory": "Remundi",
+        "localThumb": "/assets/images/hersteller/remundi.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "siena garden",
+        "name": "Siena Garden",
+        "slug": "siena-garden",
+        "productCategory": "Siena Garden",
+        "localThumb": "/assets/images/hersteller/siena-garden.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "gartenfreude",
+        "name": "Gartenfreude",
+        "slug": "gartenfreude",
+        "productCategory": "Gartenfreude",
+        "localThumb": "/assets/images/hersteller/gartenfreude.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "dobar",
+        "name": "Dobar",
+        "slug": "dobar",
+        "productCategory": "Dobar",
+        "localThumb": "/assets/images/hersteller/dobar.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "tepro",
+        "name": "Tepro",
+        "slug": "tepro",
+        "productCategory": "Tepro",
+        "localThumb": "/assets/images/hersteller/tepro.webp"
+    },
+    {
+        "key": "westmann",
+        "name": "Westmann",
+        "slug": "westmann",
+        "productCategory": "Westmann",
+        "localThumb": "/assets/images/hersteller/westmann.webp"
+    },
+    {
+        "key": "buschbeck",
+        "name": "Buschbeck",
+        "slug": "buschbeck",
+        "productCategory": "Buschbeck",
+        "localThumb": "/assets/images/hersteller/buschbeck.webp"
     },
     {
         "key": "cmi",
@@ -63,24 +112,157 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
-        "key": "guttagliss",
-        "name": "guttagliss",
-        "slug": "guttagliss",
-        "productCategory": "guttagliss",
-        "localThumb": "/assets/images/hersteller/guttagliss.webp"
+        "key": "perel",
+        "name": "Perel",
+        "slug": "perel",
+        "productCategory": "Perel",
+        "localThumb": "/assets/images/hersteller/perel.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "activa",
+        "name": "Activa",
+        "slug": "activa",
+        "productCategory": "Activa",
+        "localThumb": "/assets/images/hersteller/activa.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "bellissa",
+        "name": "Bellissa",
+        "slug": "bellissa",
+        "productCategory": "Bellissa",
+        "localThumb": "/assets/images/hersteller/bellissa.webp"
+    },
+    {
+        "key": "char-broil",
+        "name": "Char-Broil",
+        "slug": "char-broil",
+        "productCategory": "Char-Broil",
+        "localThumb": "/assets/images/hersteller/char-broil.webp"
+    },
+    {
+        "key": "jamestown-grill",
+        "name": "Jamestown-Grill",
+        "slug": "jamestown-grill",
+        "productCategory": "Jamestown-Grill",
+        "localThumb": "/assets/images/hersteller/jamestown-grill.webp"
+    },
+    {
+        "key": "severin",
+        "name": "Severin",
+        "slug": "severin",
+        "productCategory": "Severin",
+        "localThumb": "/assets/images/hersteller/severin.webp"
+    },
+    {
+        "key": "rösle",
+        "name": "Rösle",
+        "slug": "roesle",
+        "productCategory": "Rösle",
+        "localThumb": "/assets/images/hersteller/roesle.webp"
+    },
+    {
+        "key": "el fuego",
+        "name": "EL Fuego",
+        "slug": "el-fuego",
+        "productCategory": "EL Fuego",
+        "localThumb": "/assets/images/hersteller/el-fuego.webp"
+    },
+    {
+        "key": "flammenco",
+        "name": "Flammenco",
+        "slug": "flammenco",
+        "productCategory": "Flammenco",
+        "localThumb": "/assets/images/hersteller/flammenco.webp"
+    },
+    {
+        "key": "flash",
+        "name": "Flash",
+        "slug": "flash",
+        "productCategory": "Flash",
+        "localThumb": "/assets/images/hersteller/flash.webp"
+    },
+    {
+        "key": "flash green",
+        "name": "Flash Green",
+        "slug": "flash-green",
+        "productCategory": "Flash Green",
+        "localThumb": "/assets/images/hersteller/flash-green.webp"
+    },
+    {
+        "key": "grillprofi",
+        "name": "Grillprofi",
+        "slug": "grillprofi",
+        "productCategory": "Grillprofi",
+        "localThumb": "/assets/images/hersteller/grillprofi.webp"
+    },
+    {
+        "key": "mr. bbq",
+        "name": "Mr. BBQ",
+        "slug": "mr-bbq",
+        "productCategory": "Mr. BBQ",
+        "localThumb": "/assets/images/hersteller/mr-bbq.webp"
+    },
+    {
+        "key": "justus",
+        "name": "Justus",
+        "slug": "justus",
+        "productCategory": "Justus",
+        "localThumb": "/assets/images/hersteller/justus.webp"
+    },
+    {
+        "key": "outdoorchef",
+        "name": "Outdoorchef",
+        "slug": "outdoorchef",
+        "productCategory": "Outdoorchef",
+        "localThumb": "/assets/images/hersteller/outdoorchef.webp"
+    },
+    {
+        "key": "campingaz",
+        "name": "Campingaz",
+        "slug": "campingaz",
+        "productCategory": "Campingaz",
+        "localThumb": "/assets/images/hersteller/campingaz.webp"
+    },
+    {
+        "key": "broil king",
+        "name": "Broil King",
+        "slug": "broil-king",
+        "productCategory": "Broil King",
+        "localThumb": "/assets/images/hersteller/broil-king.webp"
+    },
+    {
+        "key": "cadac",
+        "name": "CADAC",
+        "slug": "cadac",
+        "productCategory": "CADAC",
+        "localThumb": "/assets/images/hersteller/cadac.webp"
+    },
+    {
+        "key": "beefer",
+        "name": "Beefer",
+        "slug": "beefer",
+        "productCategory": "Beefer",
+        "localThumb": "/assets/images/hersteller/beefer.webp"
+    },
+    {
+        "key": "grandhall",
+        "name": "Grandhall",
+        "slug": "grandhall",
+        "productCategory": "Grandhall",
+        "localThumb": "/assets/images/hersteller/grandhall.webp"
+    },
+    {
+        "key": "landmann",
+        "name": "Landmann",
+        "slug": "landmann",
+        "productCategory": "Landmann",
+        "localThumb": "/assets/images/hersteller/landmann.webp"
+    },
+    {
+        "key": "amare",
+        "name": "AMARE",
+        "slug": "amare",
+        "productCategory": "AMARE",
+        "localThumb": "/assets/images/hersteller/amare.webp"
     }
 ]
