@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "grillzy.de",
+    "hostname": "https://www.grillzy.de/",
+    "email": "grillzy.desurrealnetworks.io",
+    "organization": "grillzy.de",
+    "logoText": "Grillzy.de",
+    "title": "Grills",
+    "subline": "Der Online Shop f\u00fcr Grills",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "7384514",
+        "2950111",
+        "6474001",
+        "3046794",
+        "6995492",
+        "8312167"
+    ],
+    "winnerProducts": [
+        "3151909",
+        "8795841",
+        "2860294"
+    ],
+    "featuredCategories": [
+        "Feuerschalen",
+        "Elektrogrills",
+        "Holzkohlegrills",
+        "Grillzubeh\u00f6r",
+        "Grillanz\u00fcnder & Brennstoffe",
+        "Grillkamine"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Grills",
-        "featureText": "Your featured text goes here",
+        "featureText": "Der Grillshop ist ein Gesch\u00e4ft, das sich auf Grills und Zubeh\u00f6r spezialisiert hat. Hier finden Sie eine gro\u00dfe Auswahl an verschiedenen Grills und Zubeh\u00f6rteilen. Sie k\u00f6nnen auch verschiedene Grills ausprobieren und sich beraten lassen.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Grills und mehr: die beste Auswahl in der Stadt!",
+            "metaDescription": "Der Grillshop f\u00fcr alle, die den besten Grill suchen! Wir haben eine gro\u00dfe Auswahl an Grills und Zubeh\u00f6r f\u00fcr jeden Geschmack.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Grills f\u00fcr jeden Geschmack",
+                    "text": "Der Grill ist ein unverzichtbares Ger\u00e4t f\u00fcr jeden, der gerne drau\u00dfen isst. Ob auf dem Balkon, der Terrasse oder im Garten \u2013 mit einem Grill kann man im Freien leckere Gerichte zubereiten.\n\nDoch welcher Grill ist der richtige f\u00fcr mich? Die Auswahl ist gro\u00df und die Preise variieren. Hier einige Tipps, die beim Grillkauf beachtet werden sollten.\n\nZun\u00e4chst einmal ist die Gr\u00f6\u00dfe des Grills wichtig. Wie viele Personen sollen damit regelm\u00e4\u00dfig gegrillt werden? F\u00fcr eine Familie mit vier Personen reicht ein kleiner Grill v\u00f6llig aus.\n\nWenn h\u00e4ufiger f\u00fcr gr\u00f6\u00dfere Gruppen gegrillt wird, ist ein gr\u00f6\u00dferer Grill besser geeignet. Auch die Art des Grills ist wichtig.\n\nEs gibt Holzkohlegrills, Gasgrills und Elektrogrills. Holzkohlegrills sind die klassischen Grills und werden am h\u00e4ufigsten verwendet.\n\nSie sind relativ g\u00fcnstig in der Anschaffung und einfach in der Handhabung. Gasgrills sind etwas teurer, aber daf\u00fcr ist die Hitzeentwicklung sehr schnell und die Grillfl\u00e4che ist meist gr\u00f6\u00dfer.\n\nElektrogrills sind die teuersten Grills, aber auch die praktischsten. Sie sind ideal f\u00fcr kleinere Wohnungen, da sie nicht viel Platz ben\u00f6tigen.\n\nAuch die Reinigung ist bei einem Elektrogrill sehr einfach. Wenn Sie sich f\u00fcr einen Grill entschieden haben, sollten Sie auch darauf achten, d"
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Der Grill-Shop: Alles rund um den Grill",
+            "metaDescription": "Der offizielle Grill-Shop: Hol dir den besten Grill f\u00fcr deine n\u00e4chste Party!",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Hersteller von Grills",
+            "metaDescription": "Der offizielle Grill-Hersteller der Welt. Wir bieten die besten Grills und Zubeh\u00f6r f\u00fcr Ihren perfekten Grillabend.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT-Grill: Der ultimative Grill f\u00fcr jeden Anlass!",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER \u2013 die beste Wahl f\u00fcr Ihren n\u00e4chsten Grillabend. W\u00e4hlen Sie aus unserer gro\u00dfen Auswahl an Grills und Zubeh\u00f6r.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$KATEGORIE: Die besten Grills f\u00fcr jeden Geschmack",
+        "defaultMetaDescription": "Der beste Grill f\u00fcr jeden Anlass. W\u00e4hlen Sie aus unserer Auswahl an Gasgrills, Holzkohlegrills und Elektrogrills. $KATEGORIE",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER Grills - die besten Grills f\u00fcr jeden Geschmack. W\u00e4hlen Sie aus einer Vielzahl an Grills und finden Sie den perfekten f\u00fcr Ihren Garten.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Grills",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Grills Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Grills Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
