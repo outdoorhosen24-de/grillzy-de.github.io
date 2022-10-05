@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/severin", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/severin-pg-8563-standgriller-schwarz-m-grillplatte-windschutz-2200-w-severin-8708281-1.jpg":"\u002Fassets\u002Fimages\u002Fseverin-pg-8563-standgriller-schwarz-m-grillplatte-windschutz-2200-w-severin-8708281-1.webp"}}],fetch:{},mutations:void 0});

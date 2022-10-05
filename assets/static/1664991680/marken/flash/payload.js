@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/flash", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/flash-grillanzuender-fluessig-1-l-flash-3542354-1.jpg":"\u002Fassets\u002Fimages\u002Fflash-grillanzuender-fluessig-1-l-flash-3542354-1.webp"}}],fetch:{},mutations:void 0});

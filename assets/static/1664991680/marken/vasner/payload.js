@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/vasner", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/vasner-sunty-s1-feuerschale-rund-o-61-cm-schwarz-vasner-7529191-1.jpg":"\u002Fassets\u002Fimages\u002Fvasner-sunty-s1-feuerschale-rund-o-61-cm-schwarz-vasner-7529191-1.webp"}}],fetch:{},mutations:void 0});

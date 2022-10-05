@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/flash-green", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/bio-grillanzuender-fluessig-1-l-flash-green-2692143-1.jpg":"\u002Fassets\u002Fimages\u002Fbio-grillanzuender-fluessig-1-l-flash-green-2692143-1.webp"}}],fetch:{},mutations:void 0});

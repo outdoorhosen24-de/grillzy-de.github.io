@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/mr-bbq", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/mr-bbq-salzstein-bbq-planke-s-mr-bbq-5977004-1.jpg":"\u002Fassets\u002Fimages\u002Fmr-bbq-salzstein-bbq-planke-s-mr-bbq-5977004-1.webp"}}],fetch:{},mutations:void 0});

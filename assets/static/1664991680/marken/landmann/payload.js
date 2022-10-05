@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/landmann", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/landmann-gasgrill-gg-ii-492bkde-120-cm-schwarz-landmann-6985881-1.jpg":"\u002Fassets\u002Fimages\u002Flandmann-gasgrill-gg-ii-492bkde-120-cm-schwarz-landmann-6985881-1.webp"}}],fetch:{},mutations:void 0});
