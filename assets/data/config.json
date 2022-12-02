@@ -51,12 +51,15 @@
             "title": "Grills und mehr: die beste Auswahl in der Stadt!",
             "metaDescription": "Der Grillshop für alle, die den besten Grill suchen! Wir haben eine große Auswahl an Grills und Zubehör für jeden Geschmack.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Grills für jeden Geschmack",
-                    "text": "Der Grill ist ein unverzichtbares Gerät für jeden, der gerne draußen isst. Ob auf dem Balkon, der Terrasse oder im Garten – mit einem Grill kann man im Freien leckere Gerichte zubereiten.\n\nDoch welcher Grill ist der richtige für mich? Die Auswahl ist groß und die Preise variieren. Hier einige Tipps, die beim Grillkauf beachtet werden sollten.\n\nZunächst einmal ist die Größe des Grills wichtig. Wie viele Personen sollen damit regelmäßig gegrillt werden? Für eine Familie mit vier Personen reicht ein kleiner Grill völlig aus.\n\nWenn häufiger für größere Gruppen gegrillt wird, ist ein größerer Grill besser geeignet. Auch die Art des Grills ist wichtig.\n\nEs gibt Holzkohlegrills, Gasgrills und Elektrogrills. Holzkohlegrills sind die klassischen Grills und werden am häufigsten verwendet.\n\nSie sind relativ günstig in der Anschaffung und einfach in der Handhabung. Gasgrills sind etwas teurer, aber dafür ist die Hitzeentwicklung sehr schnell und die Grillfläche ist meist größer.\n\nElektrogrills sind die teuersten Grills, aber auch die praktischsten. Sie sind ideal für kleinere Wohnungen, da sie nicht viel Platz benötigen.\n\nAuch die Reinigung ist bei einem Elektrogrill sehr einfach. Wenn Sie sich für einen Grill entschieden haben, sollten Sie auch darauf achten, d"
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Grills für jeden Geschmack",
+                        "text": "Der Grill ist ein unverzichtbares Gerät für jeden, der gerne draußen isst. Ob auf dem Balkon, der Terrasse oder im Garten – mit einem Grill kann man im Freien leckere Gerichte zubereiten.\n\nDoch welcher Grill ist der richtige für mich? Die Auswahl ist groß und die Preise variieren. Hier einige Tipps, die beim Grillkauf beachtet werden sollten.\n\nZunächst einmal ist die Größe des Grills wichtig. Wie viele Personen sollen damit regelmäßig gegrillt werden? Für eine Familie mit vier Personen reicht ein kleiner Grill völlig aus.\n\nWenn häufiger für größere Gruppen gegrillt wird, ist ein größerer Grill besser geeignet. Auch die Art des Grills ist wichtig.\n\nEs gibt Holzkohlegrills, Gasgrills und Elektrogrills. Holzkohlegrills sind die klassischen Grills und werden am häufigsten verwendet.\n\nSie sind relativ günstig in der Anschaffung und einfach in der Handhabung. Gasgrills sind etwas teurer, aber dafür ist die Hitzeentwicklung sehr schnell und die Grillfläche ist meist größer.\n\nElektrogrills sind die teuersten Grills, aber auch die praktischsten. Sie sind ideal für kleinere Wohnungen, da sie nicht viel Platz benötigen.\n\nAuch die Reinigung ist bei einem Elektrogrill sehr einfach. Wenn Sie sich für einen Grill entschieden haben, sollten Sie auch darauf achten, d"
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Der Grill-Shop: Alles rund um den Grill",
