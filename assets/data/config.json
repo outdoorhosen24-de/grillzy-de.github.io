@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "grillzy.de",
     "hostname": "https://www.grillzy.de/",
     "email": "grillzy.de@surrealnetworks.io",
     "organization": "grillzy.de",
     "logoText": "Grillzy.de",
-    "title": "Grills",
-    "subline": "Der Online Shop für Grills",
+    "title": "Verkauf von Grill & Grillzubehör",
+    "subline": "Dein Anbieter für namenhafte Grills & Grillzubehör",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Grills",
-        "featureText": "Der Grillshop ist ein Geschäft, das sich auf Grills und Zubehör spezialisiert hat. Hier finden Sie eine große Auswahl an verschiedenen Grills und Zubehörteilen. Sie können auch verschiedene Grills ausprobieren und sich beraten lassen.",
+        "featureText": "Finden Sie alles, was Sie für Ihren Grill brauchen mit unserem außergewöhnlichen Grillzubehör. Wenn Sie bereit sind, Ihre Grillfähigkeiten auf das nächste Level zu bringen, runden Sie dies ab mit unseren Produkten. Ein gelungenes Sommerfest setzt auch voraus, dass man mit den richtigen Grillutensilien ausgestattet ist. Zaubern Sie jetzt leckere Gerichte für Familie & Freunde mit exklusiven Angeboten von uns.",
         "index": {
-            "title": "Grills und mehr: die beste Auswahl in der Stadt!",
-            "metaDescription": "Der Grillshop für alle, die den besten Grill suchen! Wir haben eine große Auswahl an Grills und Zubehör für jeden Geschmack.",
+            "title": "Schnell und bequem den passenden Grill online bestellen",
+            "metaDescription": "Unsere erstklassigen Grills erfüllen alle Ihre Anforderungen. Ergänzt durch das richtige Grillzubehör und Grillutensilien steht ihrem Fest nichts mehr entgegen.",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Der Grill-Shop: Alles rund um den Grill",
-            "metaDescription": "Der offizielle Grill-Shop: Hol dir den besten Grill für deine nächste Party!",
+            "title": "Der Shop für Grills & Grillzubehör",
+            "metaDescription": "Grillen Sie ein köstliches Essen mit hochwertigen Grills von uns. Rabatte auf ausgewählte Gasgrills, Elektrogrills, Kombigrills, Holzkohlegrills und Zubehör.",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Hersteller von Grills",
-            "metaDescription": "Der offizielle Grill-Hersteller der Welt. Wir bieten die besten Grills und Zubehör für Ihren perfekten Grillabend.",
+            "title": "Top Hersteller für Grills im Überblick",
+            "metaDescription": "Entdeckten Sie unsere Top-Auswahl von populären Herstellern wie Weber, Napoleon, Char-Broil oder Rösle. Viele Modelle, die perfekt zu ihrem Lebensstil passen.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT-Grill: Der ultimative Grill für jeden Anlass!",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER – die beste Wahl für Ihren nächsten Grillabend. Wählen Sie aus unserer großen Auswahl an Grills und Zubehör.",
+        "defaultTitle": "$PRODUKT günstig auf grillzy.de",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER – die beste Wahl für Ihren nächsten Grillabend. Wir haben Produkte für jedes Budget und jeden Stil aus der Kategorie $KATEGORIE.",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "$KATEGORIE: Die besten Grills für jeden Geschmack",
-        "defaultMetaDescription": "Der beste Grill für jeden Anlass. Wählen Sie aus unserer Auswahl an Gasgrills, Holzkohlegrills und Elektrogrills. $KATEGORIE",
+        "defaultTitle": "$KATEGORIE | günstig online kaufen",
+        "defaultMetaDescription": "Premium Grills jetzt online kaufen. Wählen Sie aus unserer Auswahl an $KATEGORIEN zum günstigen Preis. Top Service und schneller Versand.",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER Grills - die besten Grills für jeden Geschmack. Wählen Sie aus einer Vielzahl an Grills und finden Sie den perfekten für Ihren Garten.",
+        "defaultTitle": "Top Grills von $HERSTELLER",
+        "defaultMetaDescription": "Hersteller wie $HERSTELLER werden aufgrund ihrer Qualität hochgeschätzt und wir bieten diese an. Große Auswahl ✓ Günstig ✓ Schneller Versand ✓",
         "defaultRobots": "index, follow",
         "brands": [
             {
