@@ -2,7 +2,7 @@
     {
         "key": "grillzubehör",
         "name": "Grillzubehör",
-        "slug": "grillzubehor",
+        "slug": "grillzubehoer",
         "productCategory": "Grillzubehör",
         "subCategories": []
     },
@@ -44,7 +44,7 @@
     {
         "key": "grillanzünder & brennstoffe",
         "name": "Grillanzünder & Brennstoffe",
-        "slug": "grillanzunder-brennstoffe",
+        "slug": "grillanzuender-brennstoffe",
         "productCategory": "Grillanzünder & Brennstoffe",
         "subCategories": []
     },
