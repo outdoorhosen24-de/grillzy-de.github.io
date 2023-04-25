@@ -1,204 +1,207 @@
 {
-    "configIsReady": true,
-    "domain": "grillzy.de",
-    "hostname": "https://www.grillzy.de/",
-    "email": "grillzy.de@surrealnetworks.io",
-    "organization": "grillzy.de",
-    "logoText": "Grillzy.de",
-    "title": "Verkauf von Grill & Grillzubehör",
-    "subline": "Dein Anbieter für namenhafte Grills & Grillzubehör",
-    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-    "imageFolder": "/assets/images/images/",
-    "productUrl": "/produkt/",
-    "kategorieUrl": "/kategorie/",
-    "numberOfProductsOnStartpage": 18,
-    "numberMaximumProductsPerCategory": 100,
-    "numberOfRelevantProduct": 12,
-    "popularProducts": [
-        "7384514",
-        "2950111",
-        "6474001",
-        "3046794",
-        "6995492",
-        "8312167"
-    ],
-    "winnerProducts": [
-        "3151909",
-        "8795841",
-        "2860294"
-    ],
-    "featuredCategories": [
-        "Feuerschalen",
-        "Elektrogrills",
-        "Holzkohlegrills",
-        "Grillzubehör",
-        "Grillanzünder & Brennstoffe",
-        "Grillkamine"
-    ],
-    "socialMediaAccounts": [],
-    "imageQuality": 90,
-    "checklist": [
-        "Material",
-        "Komfort",
-        "Funktion",
-        "Haltbarkeit"
-    ],
-    "seo": {
-        "htmlLang": "de",
-        "mainKeyword": "Grills",
-        "featureText": "Finden Sie alles, was Sie für Ihren Grill brauchen mit unserem außergewöhnlichen Grillzubehör. Wenn Sie bereit sind, Ihre Grillfähigkeiten auf das nächste Level zu bringen, runden Sie dies ab mit unseren Produkten. Ein gelungenes Sommerfest setzt auch voraus, dass man mit den richtigen Grillutensilien ausgestattet ist. Zaubern Sie jetzt leckere Gerichte für Familie & Freunde mit exklusiven Angeboten von uns.",
-        "index": {
-            "title": "Schnell und bequem den passenden Grill online bestellen",
-            "metaDescription": "Unsere erstklassigen Grills erfüllen alle Ihre Anforderungen. Ergänzt durch das richtige Grillzubehör und Grillutensilien steht ihrem Fest nichts mehr entgegen.",
-            "robots": "index, follow",
-            "seotext": {
-                "published": true,
-                "content": [
-                    {
-                        "title": "Willkommen bei Grillzy - Ihrem Online-Shop für Grills und Grillzubehör",
-                        "text": "Herzlich willkommen bei Grillzy, Ihrem Online-Shop für Grills und Grillzubehör. Wir bieten eine große Auswahl an hochwertigen Grills, Zubehör und Utensilien für jeden Bedarf und Geschmack. Ob Sie ein erfahrener Grillmeister oder ein Neuling auf dem Gebiet des Grillens sind, bei uns werden Sie garantiert fündig.Wir bieten eine breite Palette an Grills, von Gas- und Holzkohlegrills über Elektrogrills bis hin zu Kombigrills. Für jeden Bedarf haben wir das passende Modell, von kleinen Tischgrills für eine gemütliche Runde im Freien bis hin zu großen Outdoor-Küchen für Familienfeiern und Partys.Das Zubehör für Ihren Grill ist ebenso wichtig wie der Grill selbst. Deshalb bieten wir eine große Auswahl an Grillzubehör, von Feuerschalen und Kaminen bis hin zu Reinigern und Brennstoffen. Außerdem finden Sie bei uns auch Grillutensilien wie Schaufeln, Zangen, Pfannen und vieles mehr.Wir sind stolz darauf, nur hochwertige und langlebige Produkte anzubieten. Unsere Produkte werden sorgfältig ausgewählt und geprüft, um sicherzustellen, dass Sie jedes Mal das beste Ergebnis erzielen, wenn Sie grillen.Schauen Sie sich jetzt unser Sortiment an und entdecken Sie, warum Grillzy Ihr erster Ansprechpartner für alles rund ums Grillen sein sollte. Wir freuen uns darauf, Ihnen bei Ihrem nächsten Grillabenteuer zu helfen!"
-                    },
-                    {
-                        "title": "Grillzubehör",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/grillzubehoer/\" title=\"Grillzubehör\">Grillzubehör</a> finden Sie alles, was Sie für Ihre nächste Grillparty benötigen. Von Grillhandschuhen und Schürzen bis hin zu Reinigungsutensilien und Abdeckhauben. Stöbern Sie durch unser breites Angebot an hochwertigen Produkten und finden Sie alles, was Sie für den perfekten Grillgenuss benötigen."
-                    },
-                    {
-                        "title": "Grillutensilien",
-                        "text": "In der Kategorie <a href=\"/kategorie/grillutensilien/\" title=\"Grillutensilien\">Grillutensilien</a> bieten wir Ihnen eine Vielzahl von praktischen Werkzeugen, um Ihr Grillvergnügen zu maximieren. Hier finden Sie alles, von Spießen und Zange bis hin zu Grillbürsten und -bürsten. Wir bieten Ihnen nur hochwertige und langlebige Produkte, damit Sie lange Freude an Ihren Grillutensilien haben."
-                    },
-                    {
-                        "title": "Gasgrills",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/gasgrills/\" title=\"Gasgrills\">Gasgrills</a> finden Sie eine große Auswahl an hochwertigen Grills, die mit Gas betrieben werden. Ob Sie einen kompakten Grill für den Balkon oder einen großen Grill für Ihren Garten suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Gasgrill zu finden."
-                    },
-                    {
-                        "title": "Feuerschalen",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/feuerschalen/\" title=\"Feuerschalen\">Feuerschalen</a> finden Sie eine große Auswahl an stilvollen Feuerschalen, die für jede Outdoor-Einrichtung geeignet sind. Ob Sie eine einfache Feuerschale für den Garten oder eine luxuriöse Feuerschale für Ihre Terrasse suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihre perfekte Feuerschale zu finden."
-                    },
-                    {
-                        "title": "Holzkohlegrills",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/holzkohlegrills/\" title=\"Holzkohlegrills\">Holzkohlegrills</a> finden Sie eine große Auswahl an hochwertigen Grills, die mit Holzkohle betrieben werden. Ob Sie einen kompakten Grill für den Balkon oder einen großen Grill für Ihren Garten suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Holzkohlegrill zu finden."
-                    },
-                    {
-                        "title": "Elektrogrills",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/elektrogrills/\" title=\"Elektrogrills\">Elektrogrills</a> finden Sie eine große Auswahl an hochwertigen Grills, die mit Strom betrieben werden. Ob Sie einen kompakten Grill für den Balkon oder einen großen Grill für Ihren Garten suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Elektrogrill zu finden."
-                    },
-                    {
-                        "title": "Grillanzünder & Brennstoffe",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/grillanzuender-brennstoffe/\" title=\"Grillanzünder & Brennstoffe\">Grillanzünder & Brennstoffe</a> finden Sie alles, was Sie für den perfekten Start Ihrer Grillparty benötigen. Wir bieten Ihnen eine Vielzahl von Grillanzündern und Brennstoffen, um Ihr Grillvergnügen zu maximieren. Entdecken Sie unser breites Angebot an hochwertigen Produkten und finden Sie alles, was Sie für den perfekten Grillgenuss benötigen."
-                    },
-                    {
-                        "title": "Grillreiniger",
-                        "text": "In der Kategorie <a href=\"/kategorie/grillreiniger/\" title=\"Grillreiniger\">Grillreiniger</a> bieten wir Ihnen eine Vielzahl von praktischen Reinigungsprodukten, um Ihren Grill in einwandfreiem Zustand zu halten. Hier finden Sie alles, von Reinigungssprays und -bürsten bis hin zu Reinigungstabletten. Wir bieten Ihnen nur hochwertige und langlebige Produkte, damit Sie lange Freude an Ihrem Grill haben."
-                    },
-                    {
-                        "title": "Grillkamine",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/grillkamine/\" title=\"Grillkamine\">Grillkamine</a> finden Sie eine große Auswahl an hochwertigen Kaminen, die perfekt für Ihre Grillparty geeignet sind. Ob Sie einen kompakten Kamin für den Balkon oder einen großen Kamin für Ihren Garten suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Grillkamin zu finden."
-                    },
-                    {
-                        "title": "Kombigrills",
-                        "text": "In unserer Kategorie <a href=\"/kategorie/kombigrills/\" title=\"Kombigrills\">Kombigrills</a> finden Sie eine große Auswahl an hochwertigen Grills, die mehrere Funktionen in einem Gerät vereinen. Ob Sie einen Grill suchen, der sowohl Gas als auch Holzkohle verwenden kann, oder einen Grill, der auch als Smoker verwendet werden kann, bei uns werden Sie fündig. Entdecken Sie unser breites Angebot an Kombigrills und finden Sie Ihren perfekten Grill."
-                    }
-                ]
-            }
-        },
-        "shop": {
-            "title": "Der Shop für Grills & Grillzubehör",
-            "metaDescription": "Grillen Sie ein köstliches Essen mit hochwertigen Grills von uns. Rabatte auf ausgewählte Gasgrills, Elektrogrills, Kombigrills, Holzkohlegrills und Zubehör.",
-            "robots": "index, follow"
-        },
-        "hersteller": {
-            "title": "Top Hersteller für Grills im Überblick",
-            "metaDescription": "Entdeckten Sie unsere Top-Auswahl von populären Herstellern wie Weber, Napoleon, Char-Broil oder Rösle. Viele Modelle, die perfekt zu ihrem Lebensstil passen.",
-            "robots": "index, follow"
-        }
-    },
-    "productSeo": {
-        "defaultTitle": "$PRODUKT günstig auf grillzy.de",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER – die beste Wahl für Ihren nächsten Grillabend. Wir haben Produkte für jedes Budget und jeden Stil aus der Kategorie $KATEGORIE.",
-        "defaultRobots": "index, follow",
-        "products": [
-            {
-                "sku": "5637909794",
-                "name": "Ortovox PALA PANTS Kletterhose",
-                "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-                    "robots": "index, follow"
-                }
-            }
+  "configIsReady": true,
+  "domain": "grillzy.de",
+  "hostname": "https://www.grillzy.de/",
+  "email": "grillzy.de@surrealnetworks.io",
+  "organization": "grillzy.de",
+  "logoText": "Grillzy.de",
+  "title": "Verkauf von Grill & Grillzubeh\u00f6r",
+  "subline": "Dein Anbieter f\u00fcr namenhafte Grills & Grillzubeh\u00f6r",
+  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+  "imageFolder": "/assets/images/images/",
+  "productUrl": "/produkt/",
+  "kategorieUrl": "/kategorie/",
+  "numberOfProductsOnStartpage": 18,
+  "numberMaximumProductsPerCategory": 100,
+  "numberOfRelevantProduct": 12,
+  "popularProducts": [
+    "7384514",
+    "2950111",
+    "6474001",
+    "3046794",
+    "6995492",
+    "8312167"
+  ],
+  "winnerProducts": [
+    "3151909",
+    "8795841",
+    "2860294"
+  ],
+  "featuredCategories": [
+    "Feuerschalen",
+    "Elektrogrills",
+    "Holzkohlegrills",
+    "Grillzubeh\u00f6r",
+    "Grillanz\u00fcnder & Brennstoffe",
+    "Grillkamine"
+  ],
+  "socialMediaAccounts": [],
+  "imageQuality": 90,
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
+  "seo": {
+    "htmlLang": "de",
+    "mainKeyword": "Grills",
+    "featureText": "Finden Sie alles, was Sie f\u00fcr Ihren Grill brauchen mit unserem au\u00dfergew\u00f6hnlichen Grillzubeh\u00f6r. Wenn Sie bereit sind, Ihre Grillf\u00e4higkeiten auf das n\u00e4chste Level zu bringen, runden Sie dies ab mit unseren Produkten. Ein gelungenes Sommerfest setzt auch voraus, dass man mit den richtigen Grillutensilien ausgestattet ist. Zaubern Sie jetzt leckere Gerichte f\u00fcr Familie & Freunde mit exklusiven Angeboten von uns.",
+    "index": {
+      "title": "Schnell und bequem den passenden Grill online bestellen",
+      "metaDescription": "Unsere erstklassigen Grills erf\u00fcllen alle Ihre Anforderungen. Erg\u00e4nzt durch das richtige Grillzubeh\u00f6r und Grillutensilien steht ihrem Fest nichts mehr entgegen.",
+      "robots": "index, follow",
+      "seotext": {
+        "published": true,
+        "content": [
+          {
+            "title": "Willkommen bei Grillzy - Ihrem Online-Shop f\u00fcr Grills und Grillzubeh\u00f6r",
+            "text": "Herzlich willkommen bei Grillzy, Ihrem Online-Shop f\u00fcr Grills und Grillzubeh\u00f6r. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Grills, Zubeh\u00f6r und Utensilien f\u00fcr jeden Bedarf und Geschmack. Ob Sie ein erfahrener Grillmeister oder ein Neuling auf dem Gebiet des Grillens sind, bei uns werden Sie garantiert f\u00fcndig.Wir bieten eine breite Palette an Grills, von Gas- und Holzkohlegrills \u00fcber Elektrogrills bis hin zu Kombigrills. F\u00fcr jeden Bedarf haben wir das passende Modell, von kleinen Tischgrills f\u00fcr eine gem\u00fctliche Runde im Freien bis hin zu gro\u00dfen Outdoor-K\u00fcchen f\u00fcr Familienfeiern und Partys.Das Zubeh\u00f6r f\u00fcr Ihren Grill ist ebenso wichtig wie der Grill selbst. Deshalb bieten wir eine gro\u00dfe Auswahl an Grillzubeh\u00f6r, von Feuerschalen und Kaminen bis hin zu Reinigern und Brennstoffen. Au\u00dferdem finden Sie bei uns auch Grillutensilien wie Schaufeln, Zangen, Pfannen und vieles mehr.Wir sind stolz darauf, nur hochwertige und langlebige Produkte anzubieten. Unsere Produkte werden sorgf\u00e4ltig ausgew\u00e4hlt und gepr\u00fcft, um sicherzustellen, dass Sie jedes Mal das beste Ergebnis erzielen, wenn Sie grillen.Schauen Sie sich jetzt unser Sortiment an und entdecken Sie, warum Grillzy Ihr erster Ansprechpartner f\u00fcr alles rund ums Grillen sein sollte. Wir freuen uns darauf, Ihnen bei Ihrem n\u00e4chsten Grillabenteuer zu helfen!"
+          },
+          {
+            "title": "Grillzubeh\u00f6r",
+            "text": "In unserer Kategorie <a href=\"/kategorie/grillzubehoer/\" title=\"Grillzubeh\u00f6r\">Grillzubeh\u00f6r</a> finden Sie alles, was Sie f\u00fcr Ihre n\u00e4chste Grillparty ben\u00f6tigen. Von Grillhandschuhen und Sch\u00fcrzen bis hin zu Reinigungsutensilien und Abdeckhauben. St\u00f6bern Sie durch unser breites Angebot an hochwertigen Produkten und finden Sie alles, was Sie f\u00fcr den perfekten Grillgenuss ben\u00f6tigen."
+          },
+          {
+            "title": "Grillutensilien",
+            "text": "In der Kategorie <a href=\"/kategorie/grillutensilien/\" title=\"Grillutensilien\">Grillutensilien</a> bieten wir Ihnen eine Vielzahl von praktischen Werkzeugen, um Ihr Grillvergn\u00fcgen zu maximieren. Hier finden Sie alles, von Spie\u00dfen und Zange bis hin zu Grillb\u00fcrsten und -b\u00fcrsten. Wir bieten Ihnen nur hochwertige und langlebige Produkte, damit Sie lange Freude an Ihren Grillutensilien haben."
+          },
+          {
+            "title": "Gasgrills",
+            "text": "In unserer Kategorie <a href=\"/kategorie/gasgrills/\" title=\"Gasgrills\">Gasgrills</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Grills, die mit Gas betrieben werden. Ob Sie einen kompakten Grill f\u00fcr den Balkon oder einen gro\u00dfen Grill f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Gasgrill zu finden."
+          },
+          {
+            "title": "Feuerschalen",
+            "text": "In unserer Kategorie <a href=\"/kategorie/feuerschalen/\" title=\"Feuerschalen\">Feuerschalen</a> finden Sie eine gro\u00dfe Auswahl an stilvollen Feuerschalen, die f\u00fcr jede Outdoor-Einrichtung geeignet sind. Ob Sie eine einfache Feuerschale f\u00fcr den Garten oder eine luxuri\u00f6se Feuerschale f\u00fcr Ihre Terrasse suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihre perfekte Feuerschale zu finden."
+          },
+          {
+            "title": "Holzkohlegrills",
+            "text": "In unserer Kategorie <a href=\"/kategorie/holzkohlegrills/\" title=\"Holzkohlegrills\">Holzkohlegrills</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Grills, die mit Holzkohle betrieben werden. Ob Sie einen kompakten Grill f\u00fcr den Balkon oder einen gro\u00dfen Grill f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Holzkohlegrill zu finden."
+          },
+          {
+            "title": "Elektrogrills",
+            "text": "In unserer Kategorie <a href=\"/kategorie/elektrogrills/\" title=\"Elektrogrills\">Elektrogrills</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Grills, die mit Strom betrieben werden. Ob Sie einen kompakten Grill f\u00fcr den Balkon oder einen gro\u00dfen Grill f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Elektrogrill zu finden."
+          },
+          {
+            "title": "Grillanz\u00fcnder & Brennstoffe",
+            "text": "In unserer Kategorie <a href=\"/kategorie/grillanzuender-brennstoffe/\" title=\"Grillanz\u00fcnder & Brennstoffe\">Grillanz\u00fcnder & Brennstoffe</a> finden Sie alles, was Sie f\u00fcr den perfekten Start Ihrer Grillparty ben\u00f6tigen. Wir bieten Ihnen eine Vielzahl von Grillanz\u00fcndern und Brennstoffen, um Ihr Grillvergn\u00fcgen zu maximieren. Entdecken Sie unser breites Angebot an hochwertigen Produkten und finden Sie alles, was Sie f\u00fcr den perfekten Grillgenuss ben\u00f6tigen."
+          },
+          {
+            "title": "Grillreiniger",
+            "text": "In der Kategorie <a href=\"/kategorie/grillreiniger/\" title=\"Grillreiniger\">Grillreiniger</a> bieten wir Ihnen eine Vielzahl von praktischen Reinigungsprodukten, um Ihren Grill in einwandfreiem Zustand zu halten. Hier finden Sie alles, von Reinigungssprays und -b\u00fcrsten bis hin zu Reinigungstabletten. Wir bieten Ihnen nur hochwertige und langlebige Produkte, damit Sie lange Freude an Ihrem Grill haben."
+          },
+          {
+            "title": "Grillkamine",
+            "text": "In unserer Kategorie <a href=\"/kategorie/grillkamine/\" title=\"Grillkamine\">Grillkamine</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Kaminen, die perfekt f\u00fcr Ihre Grillparty geeignet sind. Ob Sie einen kompakten Kamin f\u00fcr den Balkon oder einen gro\u00dfen Kamin f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Grillkamin zu finden."
+          },
+          {
+            "title": "Kombigrills",
+            "text": "In unserer Kategorie <a href=\"/kategorie/kombigrills/\" title=\"Kombigrills\">Kombigrills</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Grills, die mehrere Funktionen in einem Ger\u00e4t vereinen. Ob Sie einen Grill suchen, der sowohl Gas als auch Holzkohle verwenden kann, oder einen Grill, der auch als Smoker verwendet werden kann, bei uns werden Sie f\u00fcndig. Entdecken Sie unser breites Angebot an Kombigrills und finden Sie Ihren perfekten Grill."
+          }
         ]
+      }
     },
-    "categorySeo": {
-        "defaultTitle": "$KATEGORIE | günstig online kaufen",
-        "defaultMetaDescription": "Premium Grills jetzt online kaufen. Wählen Sie aus unserer Auswahl an $KATEGORIEN zum günstigen Preis. Top Service und schneller Versand.",
-        "defaultRobots": "index, follow",
-        "categories": [
-            {
-                "key": "sporthosen",
-                "slug": "sporthosen",
-                "name": "Sporthosen",
-                "seo": {
-                    "title": "Sporthosen günstig kaufen",
-                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-                    "robots": "index, follow",
-                    "texts": [
-                        {
-                            "title": "Title of a SEO Text for sporthosen",
-                            "text": "Text of a SEO Text for sporthosen"
-                        },
-                        {
-                            "title": "New title for sporthosen",
-                            "text": "new text for sporthosen"
-                        }
-                    ]
-                }
-            }
-        ]
+    "shop": {
+      "title": "Der Shop f\u00fcr Grills & Grillzubeh\u00f6r",
+      "metaDescription": "Grillen Sie ein k\u00f6stliches Essen mit hochwertigen Grills von uns. Rabatte auf ausgew\u00e4hlte Gasgrills, Elektrogrills, Kombigrills, Holzkohlegrills und Zubeh\u00f6r.",
+      "robots": "index, follow"
     },
-    "brandSeo": {
-        "defaultTitle": "Top Grills von $HERSTELLER",
-        "defaultMetaDescription": "Hersteller wie $HERSTELLER werden aufgrund ihrer Qualität hochgeschätzt und wir bieten diese an. Große Auswahl ✓ Günstig ✓ Schneller Versand ✓",
-        "defaultRobots": "index, follow",
-        "brands": [
-            {
-                "key": "palm",
-                "name": "Palm",
-                "seo": {
-                    "title": "Produkte von Palm günstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-                    "robots": "index, follow"
-                }
-            }
-        ]
-    },
-    "navigationLinks": [
-        {
-            "title": "Start",
-            "linkTo": "/",
-            "linkTitle": "Grills",
-            "publish": true
-        },
-        {
-            "title": "Shop",
-            "linkTo": "/shop/",
-            "linkTitle": "Grills Shop",
-            "publish": true
-        },
-        {
-            "title": "Marken",
-            "linkTo": "/marken/",
-            "linkTitle": "Grills Marken",
-            "publish": true
-        },
-        {
-            "title": "Kontakt",
-            "linkTo": "/kontakt/",
-            "linkTitle": "Kontakt",
-            "publish": false
-        }
-    ],
-    "ai": {
-        "enabled": true,
-        "engine": 1
+    "hersteller": {
+      "title": "Top Hersteller f\u00fcr Grills im \u00dcberblick",
+      "metaDescription": "Entdeckten Sie unsere Top-Auswahl von popul\u00e4ren Herstellern wie Weber, Napoleon, Char-Broil oder R\u00f6sle. Viele Modelle, die perfekt zu ihrem Lebensstil passen.",
+      "robots": "index, follow"
     }
+  },
+  "productSeo": {
+    "defaultTitle": "$PRODUKT g\u00fcnstig auf grillzy.de",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER \u2013 die beste Wahl f\u00fcr Ihren n\u00e4chsten Grillabend. Wir haben Produkte f\u00fcr jedes Budget und jeden Stil aus der Kategorie $KATEGORIE.",
+    "defaultRobots": "index, follow",
+    "products": [
+      {
+        "sku": "5637909794",
+        "name": "Ortovox PALA PANTS Kletterhose",
+        "seo": {
+          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "categorySeo": {
+    "defaultTitle": "$KATEGORIE | g\u00fcnstig online kaufen",
+    "defaultMetaDescription": "Premium Grills jetzt online kaufen. W\u00e4hlen Sie aus unserer Auswahl an $KATEGORIEN zum g\u00fcnstigen Preis. Top Service und schneller Versand.",
+    "defaultRobots": "index, follow",
+    "categories": [
+      {
+        "key": "sporthosen",
+        "slug": "sporthosen",
+        "name": "Sporthosen",
+        "seo": {
+          "title": "Sporthosen g\u00fcnstig kaufen",
+          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "robots": "index, follow",
+          "texts": [
+            {
+              "title": "Title of a SEO Text for sporthosen",
+              "text": "Text of a SEO Text for sporthosen"
+            },
+            {
+              "title": "New title for sporthosen",
+              "text": "new text for sporthosen"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "brandSeo": {
+    "defaultTitle": "Top Grills von $HERSTELLER",
+    "defaultMetaDescription": "Hersteller wie $HERSTELLER werden aufgrund ihrer Qualit\u00e4t hochgesch\u00e4tzt und wir bieten diese an. Gro\u00dfe Auswahl \u2713 G\u00fcnstig \u2713 Schneller Versand \u2713",
+    "defaultRobots": "index, follow",
+    "brands": [
+      {
+        "key": "palm",
+        "name": "Palm",
+        "seo": {
+          "title": "Produkte von Palm g\u00fcnstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "robots": "index, follow"
+        }
+      }
+    ]
+  },
+  "navigationLinks": [
+    {
+      "title": "Start",
+      "linkTo": "/",
+      "linkTitle": "Grills",
+      "publish": true
+    },
+    {
+      "title": "Shop",
+      "linkTo": "/shop/",
+      "linkTitle": "Grills Shop",
+      "publish": true
+    },
+    {
+      "title": "Marken",
+      "linkTo": "/marken/",
+      "linkTitle": "Grills Marken",
+      "publish": true
+    },
+    {
+      "title": "Kontakt",
+      "linkTo": "/kontakt/",
+      "linkTitle": "Kontakt",
+      "publish": false
+    }
+  ],
+  "ai": {
+    "enabled": true,
+    "engine": 1
+  },
+  "affiliate": {
+    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
+  }
 }
