@@ -22,11 +22,7 @@
     "6995492",
     "8312167"
   ],
-  "winnerProducts": [
-    "3151909",
-    "8795841",
-    "2860294"
-  ],
+  "winnerProducts": ["3151909", "8795841", "2860294"],
   "featuredCategories": [
     "Feuerschalen",
     "Elektrogrills",
@@ -37,12 +33,7 @@
   ],
   "socialMediaAccounts": [],
   "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
+  "checklist": ["Material", "Komfort", "Funktion", "Haltbarkeit"],
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Grills",
@@ -117,6 +108,17 @@
     "defaultMetaDescription": "$PRODUKT von $HERSTELLER \u2013 die beste Wahl f\u00fcr Ihren n\u00e4chsten Grillabend. Wir haben Produkte f\u00fcr jedes Budget und jeden Stil aus der Kategorie $KATEGORIE.",
     "defaultRobots": "index, follow",
     "products": [
+      {
+        "sku": "5248554",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown 3-Brenner Gasgrill Xander: Das perfekte Grillvergnügen für jede Gelegenheit",
+              "text": "<p class=\\\"justify\\\">Entdecken Sie den Jamestown 3-Brenner Gasgrill Xander, die ideale Lösung für alle Grillliebhaber, die Wert auf eine leistungsstarke und vielseitige Grillausrüstung legen. In diesem Artikel erfahren Sie, warum der Jamestown Xander Gasgrill die perfekte Wahl für Ihr nächstes Grillfest ist und welche Vorteile er Ihnen bietet.</p><p class=\\\"justify\\\">Der Jamestown 3-Brenner Gasgrill Xander überzeugt durch seine hochwertige Verarbeitung und das ansprechende Design. Mit seinen drei leistungsstarken Brennern bietet er eine ausgezeichnete Hitzeverteilung und ermöglicht Ihnen, verschiedene Grillgutarten gleichzeitig zuzubereiten. So gelingt Ihnen jede Grillparty im Handumdrehen.</p><p class=\\\"justify\\\">Ein besonderes Highlight des Jamestown Xander Gasgrills ist der integrierte Seitenbrenner. Dieser ermöglicht es Ihnen, Beilagen oder Saucen direkt auf dem Grill zuzubereiten, ohne dass Sie einen zusätzlichen Herd benötigen. So können Sie Ihre gesamte Outdoor-Küche effizient nutzen und haben alles schnell zur Hand.</p><p class=\\\"justify\\\">Die praktische Temperaturanzeige im Deckel des Jamestown 3-Brenner Gasgrills Xander erleichtert Ihnen die Kontrolle der Grilltemperatur und sorgt für perfekte Grillergebnisse bei jedem Einsatz. Dank der stabilen Rollen lässt sich der Grill bequem transportieren und an den gewünschten Ort im Garten oder auf der Terrasse platzieren.</p><p class=\\\"justify\\\">Die Reinigung des Jamestown Xander Gasgrills ist denkbar einfach. Die emaillierten Grillroste sind nicht nur robust und langlebig, sondern auch äußerst pflegeleicht. Nach dem Grillen können sie mühelos mit einer Grillbürste gereinigt werden. Die abnehmbare Fettauffangschale ermöglicht zudem eine unkomplizierte Reinigung des Grillinneren.</p><p class=\\\"justify\\\">Zusammenfassend ist der Jamestown 3-Brenner Gasgrill Xander die ideale Wahl für alle, die auf der Suche nach einem leistungsstarken und vielseitigen Gasgrill sind. Mit seiner hervorragenden Hitzeverteilung, dem integrierten Seitenbrenner und der einfachen Reinigung wird er Ihnen ein unvergessliches Grillvergnügen bereiten. Lassen Sie sich von der Qualität und den zahlreichen Funktionen des Jamestown Xander Gasgrills begeistern und genießen Sie köstliche Grillgerichte bei jeder Gelegenheit.</p>"
+            }
+          ]
+        }
+      },
       {
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
