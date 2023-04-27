@@ -22,7 +22,7 @@
     "6995492",
     "8312167"
   ],
-  "winnerProducts": ["3151909", "8795841", "2860294"],
+  "winnerProducts": ["5248737", "5248554", "2860294"],
   "featuredCategories": [
     "Feuerschalen",
     "Elektrogrills",
@@ -108,6 +108,28 @@
     "defaultMetaDescription": "$PRODUKT von $HERSTELLER \u2013 die beste Wahl f\u00fcr Ihren n\u00e4chsten Grillabend. Wir haben Produkte f\u00fcr jedes Budget und jeden Stil aus der Kategorie $KATEGORIE.",
     "defaultRobots": "index, follow",
     "products": [
+      {
+        "sku": "2860294",
+        "seo": {
+          "texts": [
+            {
+              "title": "Activa Gasgrill Lavastein mit 2 Brennern inkl. 3 kg Lavasteine",
+              "text": "<p class=\"justify\">Der Activa Gasgrill Lavastein (SKU: 2860294) ist ein hochwertiger Gasgrill der Marke Activa, der sich ideal für Grillliebhaber eignet. Die Grillfläche von 48 x 37 cm bietet ausreichend Platz für ein köstliches Barbecue-Erlebnis. Die im Lieferumfang enthaltenen 3 kg Lavasteine sorgen für eine besonders lange Wärmespeicherung und gleichmäßige Hitzeverteilung beim Grillen.</p><p class=\"justify\">Die leistungsstarken Hauptbrenner mit 5,5 kW und der 2,5 kW Seitenbrenner liefern optimale Grillergebnisse. Die aluminierten Brenner sind rostbeständig und somit äußerst langlebig. Dank der einzelnen Temperaturregelung der Brenner und der Piezo-Zündung ist ein schnelles und sicheres Anzünden gewährleistet. Das Sichtfenster und das Deckelthermometer ermöglichen eine optimale Temperaturkontrolle während des Grillvorgangs.</p><p class=\"justify\">Der Activa Gasgrill verfügt über ein emailliertes Grillrost und Warmhalterost – ideal zum Warmhalten von Speisen oder zum Rösten von Brot. Die Lavasteine werden durch die Gasflamme erhitzt und sorgen für eine gleichmäßige Hitzeverteilung. Damit bleiben Ihre Grillspeisen besonders saftig und aromatisch.</p><p class=\"justify\">Praktische Seitenablagen bieten ausreichend Platz für Besteck, Gewürze und Zutaten. Ein zusätzlicher Korb an der Vorderseite sorgt für noch mehr Stauraum. Der Aufbau des Activa Gasgrill Lavastein ist schnell und einfach. In weniger als 30 Minuten ist der Grill einsatzbereit. Die hochwertigen Materialien machen die Reinigung mühelos und unkompliziert.</p><p class=\"justify\">Mit einer angenehmen Arbeitshöhe von 99 cm steht auch langen Grillabenden nichts im Wege. Der Grill lässt sich dank der leichtgängigen Räder bequem transportieren und platzieren. Für ein rundum gelungenes Grillerlebnis sollten Sie sich den Activa Gasgrill Lavastein mit 2 Brennern inkl. 3 kg Lavasteine nicht entgehen lassen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5248737",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown 6-Brenner Gasgrill Knox: Perfekt für anspruchsvolle Grillliebhaber",
+              "text": "<p class=\"justify\">Entdecken Sie den ultimativen Grillgenuss mit dem hochwertigen Jamestown 6-Brenner Gasgrill Knox. Dieser leistungsstarke Gasgrill aus dem Hause Jamestown-Grill, einem Namen der für Qualität und Genuss steht, ermöglicht es Ihnen, köstliche Gerichte schnell und einfach zuzubereiten - ohne Rauch, Schmutz und Anglühen. Die Kategorie Gasgrills wird mit diesem Produkt auf ein neues Level gehoben und bietet Ihnen alle Möglichkeiten, um jedem Grillerlebnis gerecht zu werden.</p><p class=\"justify\">Der Jamestown Knox besitzt sechs Brenner mit einer Gesamtleistung von 30,7 kW und ermöglicht durch seine getrennt regelbaren Brenner eine individuelle Temperaturregulierung. Egal ob direktes oder indirektes Grillen, Kochen auf der Kochplatte oder Räuchern von Fisch - dieser Gasgrill bietet alles, was das anspruchsvolle Grillherz begehrt. Mit dem praktischen Deckelthermometer und dem großen Sichtfenster behalten Sie stets den Überblick über Ihr Grillgut, während die elektronische Piezo-Zündung, der Seitenbrenner sowie der Infrarot-Heckbrenner weitere Möglichkeiten zur Zubereitung eröffnen.</p><p class=\"justify\">Das durchdachte Design des Jamestown 6-Brenner Gasgrill Knox ist nicht nur optisch ansprechend, sondern bietet auch in Sachen Funktionalität und Komfort alles, was man sich wünschen kann. Die geräumigen Schubladen mit Beleuchtung und das Türfach für die Gasflasche sorgen dabei für Ordnung und Stauraum. Zudem ist der Grillwagen mit Rollen und Feststellbremsen ausgestattet, welche ein einfaches Umstellen des Grills und sicheren Stand ermöglichen.</p><p class=\"justify\">Erweitern Sie Ihren Grillspaß mit dem cleveren Modular System des Jamestown Knox und genießen Sie die Vielfalt an Einsatzmöglichkeiten - ob Braten, Woken oder sogar das Backen einer Pizza. Dieser Gasgrill ist die perfekte Wahl für Grillbegeisterte, die Wert auf beste Qualität, vielseitige Einsatzmöglichkeiten und ein hervorragendes Grillergebnis legen. Entdecken Sie den Jamestown 6-Brenner Gasgrill Knox und überzeugen Sie sich selbst von seiner herausragenden Qualität!</p>"
+            }
+          ]
+        }
+      },
       {
         "sku": "5248554",
         "seo": {
