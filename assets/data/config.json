@@ -5,8 +5,8 @@
   "email": "grillzy.de@surrealnetworks.io",
   "organization": "grillzy.de",
   "logoText": "Grillzy.de",
-  "title": "Verkauf von Grill & Grillzubeh\u00f6r",
-  "subline": "Dein Anbieter f\u00fcr namenhafte Grills & Grillzubeh\u00f6r",
+  "title": "Verkauf von Grill & Grillzubehör",
+  "subline": "Dein Anbieter für namenhafte Grills & Grillzubehör",
   "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
   "imageFolder": "/assets/images/images/",
   "productUrl": "/produkt/",
@@ -22,90 +22,99 @@
     "6995492",
     "8312167"
   ],
-  "winnerProducts": ["5248737", "5248554", "2860294"],
+  "winnerProducts": [
+    "5248737",
+    "5248554",
+    "2860294"
+  ],
   "featuredCategories": [
     "Feuerschalen",
     "Elektrogrills",
     "Holzkohlegrills",
-    "Grillzubeh\u00f6r",
-    "Grillanz\u00fcnder & Brennstoffe",
+    "Grillzubehör",
+    "Grillanzünder & Brennstoffe",
     "Grillkamine"
   ],
   "socialMediaAccounts": [],
   "imageQuality": 90,
-  "checklist": ["Material", "Komfort", "Funktion", "Haltbarkeit"],
+  "checklist": [
+    "Material",
+    "Komfort",
+    "Funktion",
+    "Haltbarkeit"
+  ],
   "seo": {
     "htmlLang": "de",
     "mainKeyword": "Grills",
-    "featureText": "Finden Sie alles, was Sie f\u00fcr Ihren Grill brauchen mit unserem au\u00dfergew\u00f6hnlichen Grillzubeh\u00f6r. Wenn Sie bereit sind, Ihre Grillf\u00e4higkeiten auf das n\u00e4chste Level zu bringen, runden Sie dies ab mit unseren Produkten. Ein gelungenes Sommerfest setzt auch voraus, dass man mit den richtigen Grillutensilien ausgestattet ist. Zaubern Sie jetzt leckere Gerichte f\u00fcr Familie & Freunde mit exklusiven Angeboten von uns.",
+    "featureText": "Finden Sie alles, was Sie für Ihren Grill brauchen mit unserem außergewöhnlichen Grillzubehör. Wenn Sie bereit sind, Ihre Grillfähigkeiten auf das nächste Level zu bringen, runden Sie dies ab mit unseren Produkten. Ein gelungenes Sommerfest setzt auch voraus, dass man mit den richtigen Grillutensilien ausgestattet ist. Zaubern Sie jetzt leckere Gerichte für Familie & Freunde mit exklusiven Angeboten von uns.",
     "index": {
       "title": "Schnell und bequem den passenden Grill online bestellen",
-      "metaDescription": "Unsere erstklassigen Grills erf\u00fcllen alle Ihre Anforderungen. Erg\u00e4nzt durch das richtige Grillzubeh\u00f6r und Grillutensilien steht ihrem Fest nichts mehr entgegen.",
+      "metaDescription": "Unsere erstklassigen Grills erfüllen alle Ihre Anforderungen. Ergänzt durch das richtige Grillzubehör und Grillutensilien steht ihrem Fest nichts mehr entgegen.",
       "robots": "index, follow",
       "seotext": {
         "published": true,
         "content": [
           {
-            "title": "Willkommen bei Grillzy - Ihrem Online-Shop f\u00fcr Grills und Grillzubeh\u00f6r",
-            "text": "Herzlich willkommen bei Grillzy, Ihrem Online-Shop f\u00fcr Grills und Grillzubeh\u00f6r. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Grills, Zubeh\u00f6r und Utensilien f\u00fcr jeden Bedarf und Geschmack. Ob Sie ein erfahrener Grillmeister oder ein Neuling auf dem Gebiet des Grillens sind, bei uns werden Sie garantiert f\u00fcndig.Wir bieten eine breite Palette an Grills, von Gas- und Holzkohlegrills \u00fcber Elektrogrills bis hin zu Kombigrills. F\u00fcr jeden Bedarf haben wir das passende Modell, von kleinen Tischgrills f\u00fcr eine gem\u00fctliche Runde im Freien bis hin zu gro\u00dfen Outdoor-K\u00fcchen f\u00fcr Familienfeiern und Partys.Das Zubeh\u00f6r f\u00fcr Ihren Grill ist ebenso wichtig wie der Grill selbst. Deshalb bieten wir eine gro\u00dfe Auswahl an Grillzubeh\u00f6r, von Feuerschalen und Kaminen bis hin zu Reinigern und Brennstoffen. Au\u00dferdem finden Sie bei uns auch Grillutensilien wie Schaufeln, Zangen, Pfannen und vieles mehr.Wir sind stolz darauf, nur hochwertige und langlebige Produkte anzubieten. Unsere Produkte werden sorgf\u00e4ltig ausgew\u00e4hlt und gepr\u00fcft, um sicherzustellen, dass Sie jedes Mal das beste Ergebnis erzielen, wenn Sie grillen.Schauen Sie sich jetzt unser Sortiment an und entdecken Sie, warum Grillzy Ihr erster Ansprechpartner f\u00fcr alles rund ums Grillen sein sollte. Wir freuen uns darauf, Ihnen bei Ihrem n\u00e4chsten Grillabenteuer zu helfen!"
+            "title": "Willkommen bei Grillzy - Ihrem Online-Shop für Grills und Grillzubehör",
+            "text": "Herzlich willkommen bei Grillzy, Ihrem Online-Shop für Grills und Grillzubehör. Wir bieten eine große Auswahl an hochwertigen Grills, Zubehör und Utensilien für jeden Bedarf und Geschmack. Ob Sie ein erfahrener Grillmeister oder ein Neuling auf dem Gebiet des Grillens sind, bei uns werden Sie garantiert fündig.Wir bieten eine breite Palette an Grills, von Gas- und Holzkohlegrills über Elektrogrills bis hin zu Kombigrills. Für jeden Bedarf haben wir das passende Modell, von kleinen Tischgrills für eine gemütliche Runde im Freien bis hin zu großen Outdoor-Küchen für Familienfeiern und Partys.Das Zubehör für Ihren Grill ist ebenso wichtig wie der Grill selbst. Deshalb bieten wir eine große Auswahl an Grillzubehör, von Feuerschalen und Kaminen bis hin zu Reinigern und Brennstoffen. Außerdem finden Sie bei uns auch Grillutensilien wie Schaufeln, Zangen, Pfannen und vieles mehr.Wir sind stolz darauf, nur hochwertige und langlebige Produkte anzubieten. Unsere Produkte werden sorgfältig ausgewählt und geprüft, um sicherzustellen, dass Sie jedes Mal das beste Ergebnis erzielen, wenn Sie grillen.Schauen Sie sich jetzt unser Sortiment an und entdecken Sie, warum Grillzy Ihr erster Ansprechpartner für alles rund ums Grillen sein sollte. Wir freuen uns darauf, Ihnen bei Ihrem nächsten Grillabenteuer zu helfen!"
           },
           {
-            "title": "Grillzubeh\u00f6r",
-            "text": "In unserer Kategorie <a href=\"/kategorie/grillzubehoer/\" title=\"Grillzubeh\u00f6r\">Grillzubeh\u00f6r</a> finden Sie alles, was Sie f\u00fcr Ihre n\u00e4chste Grillparty ben\u00f6tigen. Von Grillhandschuhen und Sch\u00fcrzen bis hin zu Reinigungsutensilien und Abdeckhauben. St\u00f6bern Sie durch unser breites Angebot an hochwertigen Produkten und finden Sie alles, was Sie f\u00fcr den perfekten Grillgenuss ben\u00f6tigen."
+            "title": "Grillzubehör",
+            "text": "In unserer Kategorie <a href=\"/kategorie/grillzubehoer/\" title=\"Grillzubehör\">Grillzubehör</a> finden Sie alles, was Sie für Ihre nächste Grillparty benötigen. Von Grillhandschuhen und Schürzen bis hin zu Reinigungsutensilien und Abdeckhauben. Stöbern Sie durch unser breites Angebot an hochwertigen Produkten und finden Sie alles, was Sie für den perfekten Grillgenuss benötigen."
           },
           {
             "title": "Grillutensilien",
-            "text": "In der Kategorie <a href=\"/kategorie/grillutensilien/\" title=\"Grillutensilien\">Grillutensilien</a> bieten wir Ihnen eine Vielzahl von praktischen Werkzeugen, um Ihr Grillvergn\u00fcgen zu maximieren. Hier finden Sie alles, von Spie\u00dfen und Zange bis hin zu Grillb\u00fcrsten und -b\u00fcrsten. Wir bieten Ihnen nur hochwertige und langlebige Produkte, damit Sie lange Freude an Ihren Grillutensilien haben."
+            "text": "In der Kategorie <a href=\"/kategorie/grillutensilien/\" title=\"Grillutensilien\">Grillutensilien</a> bieten wir Ihnen eine Vielzahl von praktischen Werkzeugen, um Ihr Grillvergnügen zu maximieren. Hier finden Sie alles, von Spießen und Zange bis hin zu Grillbürsten und -bürsten. Wir bieten Ihnen nur hochwertige und langlebige Produkte, damit Sie lange Freude an Ihren Grillutensilien haben."
           },
           {
             "title": "Gasgrills",
-            "text": "In unserer Kategorie <a href=\"/kategorie/gasgrills/\" title=\"Gasgrills\">Gasgrills</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Grills, die mit Gas betrieben werden. Ob Sie einen kompakten Grill f\u00fcr den Balkon oder einen gro\u00dfen Grill f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Gasgrill zu finden."
+            "text": "In unserer Kategorie <a href=\"/kategorie/gasgrills/\" title=\"Gasgrills\">Gasgrills</a> finden Sie eine große Auswahl an hochwertigen Grills, die mit Gas betrieben werden. Ob Sie einen kompakten Grill für den Balkon oder einen großen Grill für Ihren Garten suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Gasgrill zu finden."
           },
           {
             "title": "Feuerschalen",
-            "text": "In unserer Kategorie <a href=\"/kategorie/feuerschalen/\" title=\"Feuerschalen\">Feuerschalen</a> finden Sie eine gro\u00dfe Auswahl an stilvollen Feuerschalen, die f\u00fcr jede Outdoor-Einrichtung geeignet sind. Ob Sie eine einfache Feuerschale f\u00fcr den Garten oder eine luxuri\u00f6se Feuerschale f\u00fcr Ihre Terrasse suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihre perfekte Feuerschale zu finden."
+            "text": "In unserer Kategorie <a href=\"/kategorie/feuerschalen/\" title=\"Feuerschalen\">Feuerschalen</a> finden Sie eine große Auswahl an stilvollen Feuerschalen, die für jede Outdoor-Einrichtung geeignet sind. Ob Sie eine einfache Feuerschale für den Garten oder eine luxuriöse Feuerschale für Ihre Terrasse suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihre perfekte Feuerschale zu finden."
           },
           {
             "title": "Holzkohlegrills",
-            "text": "In unserer Kategorie <a href=\"/kategorie/holzkohlegrills/\" title=\"Holzkohlegrills\">Holzkohlegrills</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Grills, die mit Holzkohle betrieben werden. Ob Sie einen kompakten Grill f\u00fcr den Balkon oder einen gro\u00dfen Grill f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Holzkohlegrill zu finden."
+            "text": "In unserer Kategorie <a href=\"/kategorie/holzkohlegrills/\" title=\"Holzkohlegrills\">Holzkohlegrills</a> finden Sie eine große Auswahl an hochwertigen Grills, die mit Holzkohle betrieben werden. Ob Sie einen kompakten Grill für den Balkon oder einen großen Grill für Ihren Garten suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Holzkohlegrill zu finden."
           },
           {
             "title": "Elektrogrills",
-            "text": "In unserer Kategorie <a href=\"/kategorie/elektrogrills/\" title=\"Elektrogrills\">Elektrogrills</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Grills, die mit Strom betrieben werden. Ob Sie einen kompakten Grill f\u00fcr den Balkon oder einen gro\u00dfen Grill f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Elektrogrill zu finden."
+            "text": "In unserer Kategorie <a href=\"/kategorie/elektrogrills/\" title=\"Elektrogrills\">Elektrogrills</a> finden Sie eine große Auswahl an hochwertigen Grills, die mit Strom betrieben werden. Ob Sie einen kompakten Grill für den Balkon oder einen großen Grill für Ihren Garten suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Elektrogrill zu finden."
           },
           {
-            "title": "Grillanz\u00fcnder & Brennstoffe",
-            "text": "In unserer Kategorie <a href=\"/kategorie/grillanzuender-brennstoffe/\" title=\"Grillanz\u00fcnder & Brennstoffe\">Grillanz\u00fcnder & Brennstoffe</a> finden Sie alles, was Sie f\u00fcr den perfekten Start Ihrer Grillparty ben\u00f6tigen. Wir bieten Ihnen eine Vielzahl von Grillanz\u00fcndern und Brennstoffen, um Ihr Grillvergn\u00fcgen zu maximieren. Entdecken Sie unser breites Angebot an hochwertigen Produkten und finden Sie alles, was Sie f\u00fcr den perfekten Grillgenuss ben\u00f6tigen."
+            "title": "Grillanzünder & Brennstoffe",
+            "text": "In unserer Kategorie <a href=\"/kategorie/grillanzuender-brennstoffe/\" title=\"Grillanzünder & Brennstoffe\">Grillanzünder & Brennstoffe</a> finden Sie alles, was Sie für den perfekten Start Ihrer Grillparty benötigen. Wir bieten Ihnen eine Vielzahl von Grillanzündern und Brennstoffen, um Ihr Grillvergnügen zu maximieren. Entdecken Sie unser breites Angebot an hochwertigen Produkten und finden Sie alles, was Sie für den perfekten Grillgenuss benötigen."
           },
           {
             "title": "Grillreiniger",
-            "text": "In der Kategorie <a href=\"/kategorie/grillreiniger/\" title=\"Grillreiniger\">Grillreiniger</a> bieten wir Ihnen eine Vielzahl von praktischen Reinigungsprodukten, um Ihren Grill in einwandfreiem Zustand zu halten. Hier finden Sie alles, von Reinigungssprays und -b\u00fcrsten bis hin zu Reinigungstabletten. Wir bieten Ihnen nur hochwertige und langlebige Produkte, damit Sie lange Freude an Ihrem Grill haben."
+            "text": "In der Kategorie <a href=\"/kategorie/grillreiniger/\" title=\"Grillreiniger\">Grillreiniger</a> bieten wir Ihnen eine Vielzahl von praktischen Reinigungsprodukten, um Ihren Grill in einwandfreiem Zustand zu halten. Hier finden Sie alles, von Reinigungssprays und -bürsten bis hin zu Reinigungstabletten. Wir bieten Ihnen nur hochwertige und langlebige Produkte, damit Sie lange Freude an Ihrem Grill haben."
           },
           {
             "title": "Grillkamine",
-            "text": "In unserer Kategorie <a href=\"/kategorie/grillkamine/\" title=\"Grillkamine\">Grillkamine</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Kaminen, die perfekt f\u00fcr Ihre Grillparty geeignet sind. Ob Sie einen kompakten Kamin f\u00fcr den Balkon oder einen gro\u00dfen Kamin f\u00fcr Ihren Garten suchen, bei uns werden Sie f\u00fcndig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Grillkamin zu finden."
+            "text": "In unserer Kategorie <a href=\"/kategorie/grillkamine/\" title=\"Grillkamine\">Grillkamine</a> finden Sie eine große Auswahl an hochwertigen Kaminen, die perfekt für Ihre Grillparty geeignet sind. Ob Sie einen kompakten Kamin für den Balkon oder einen großen Kamin für Ihren Garten suchen, bei uns werden Sie fündig. Wir bieten Ihnen eine Vielzahl von Optionen, um Ihren perfekten Grillkamin zu finden."
           },
           {
             "title": "Kombigrills",
-            "text": "In unserer Kategorie <a href=\"/kategorie/kombigrills/\" title=\"Kombigrills\">Kombigrills</a> finden Sie eine gro\u00dfe Auswahl an hochwertigen Grills, die mehrere Funktionen in einem Ger\u00e4t vereinen. Ob Sie einen Grill suchen, der sowohl Gas als auch Holzkohle verwenden kann, oder einen Grill, der auch als Smoker verwendet werden kann, bei uns werden Sie f\u00fcndig. Entdecken Sie unser breites Angebot an Kombigrills und finden Sie Ihren perfekten Grill."
+            "text": "In unserer Kategorie <a href=\"/kategorie/kombigrills/\" title=\"Kombigrills\">Kombigrills</a> finden Sie eine große Auswahl an hochwertigen Grills, die mehrere Funktionen in einem Gerät vereinen. Ob Sie einen Grill suchen, der sowohl Gas als auch Holzkohle verwenden kann, oder einen Grill, der auch als Smoker verwendet werden kann, bei uns werden Sie fündig. Entdecken Sie unser breites Angebot an Kombigrills und finden Sie Ihren perfekten Grill."
           }
         ]
       }
     },
     "shop": {
-      "title": "Der Shop f\u00fcr Grills & Grillzubeh\u00f6r",
-      "metaDescription": "Grillen Sie ein k\u00f6stliches Essen mit hochwertigen Grills von uns. Rabatte auf ausgew\u00e4hlte Gasgrills, Elektrogrills, Kombigrills, Holzkohlegrills und Zubeh\u00f6r.",
+      "title": "Der Shop für Grills & Grillzubehör",
+      "metaDescription": "Grillen Sie ein köstliches Essen mit hochwertigen Grills von uns. Rabatte auf ausgewählte Gasgrills, Elektrogrills, Kombigrills, Holzkohlegrills und Zubehör.",
       "robots": "index, follow"
     },
     "hersteller": {
-      "title": "Top Hersteller f\u00fcr Grills im \u00dcberblick",
-      "metaDescription": "Entdeckten Sie unsere Top-Auswahl von popul\u00e4ren Herstellern wie Weber, Napoleon, Char-Broil oder R\u00f6sle. Viele Modelle, die perfekt zu ihrem Lebensstil passen.",
+      "title": "Top Hersteller für Grills im Überblick",
+      "metaDescription": "Entdeckten Sie unsere Top-Auswahl von populären Herstellern wie Weber, Napoleon, Char-Broil oder Rösle. Viele Modelle, die perfekt zu ihrem Lebensstil passen.",
       "robots": "index, follow"
     }
   },
   "productSeo": {
-    "defaultTitle": "$PRODUKT g\u00fcnstig auf grillzy.de",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER \u2013 die beste Wahl f\u00fcr Ihren n\u00e4chsten Grillabend. Wir haben Produkte f\u00fcr jedes Budget und jeden Stil aus der Kategorie $KATEGORIE.",
+    "defaultTitle": "$PRODUKT günstig auf grillzy.de",
+    "defaultMetaDescription": "$PRODUKT von $HERSTELLER – die beste Wahl für Ihren nächsten Grillabend. Wir haben Produkte für jedes Budget und jeden Stil aus der Kategorie $KATEGORIE.",
     "defaultRobots": "index, follow",
     "products": [
       {
@@ -145,16 +154,181 @@
         "sku": "5637909794",
         "name": "Ortovox PALA PANTS Kletterhose",
         "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
           "robots": "index, follow"
+        }
+      },
+      {
+        "sku": "8460230",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown 3-Brenner Gasgrill Maddox: Das ultimative Grillerlebnis",
+              "text": "<p class=\"justify\">Der Jamestown 3-Brenner Gasgrill Maddox von Jamestown-Grill bietet Ihnen und Ihren Gästen jede Menge Grillspaß ohne Rauch, Schmutz und Anzündproblemen. Servieren Sie schnell und einfach köstliche Grillgerichte wie saftige Würstchen, zartes Fleisch und schmackhaftes Grillgemüse. Mit seinen vielfältigen Funktionen und leistungsstarken Brennern ist der Jamestown Maddox ein wahrer Alleskönner unter den Gasgrills.</p><p class=\"justify\">Ausgestattet mit drei getrennt regelbaren Edelstahlbrennern und einer Gesamtleistung von 13,5 kW können Sie unterschiedliche Garzonen einrichten und somit mehrere verschiedene Grillgerichte gleichzeitig zubereiten. Seine Piezo-Zündung ermöglicht ein schnelles und sicheres Starten, während sein Deckelthermometer für eine präzise Temperaturkontrolle sorgt. Der 60,5 x 41,5 cm große Grillrost aus hochwertigem emailliertem Gusseisen garantiert ein gleichmäßiges Garen, optimale Hitzespeicherung und erstaunliche Grillmuster.</p><p class=\"justify\">Der Maddox wird durch das clevere Modular System noch vielseitiger. Indem Sie die Einsätze im Grillrost austauschen, verwandelt sich Ihr Gasgrill in einen Pizzaofen, Bräter oder Wok. Der integrierte Seitenbrenner sorgt für zusätzlichen Komfort, indem er als Kochstelle zum Zubereiten von Beilagen und Saucen verwendet werden kann.</p><p class=\"justify\">Abgesehen von seiner beeindruckenden Leistung und Vielseitigkeit bietet der Jamestown Maddox auch praktische Funktionen und eine einfache Handhabung an. Der geräumige Unterschrank und Seitentisch mit faltbarer Seitentür bieten ausreichend Stauraum und Ablagefläche für Grillzubehör, Gewürze und Gasflaschen. Dank der robusten Rollen kann der Grill problemlos an den gewünschten Ort transportiert werden.</p><p class=\"justify\">Zusammenfassend ist der Jamestown 3-Brenner Gasgrill Maddox die perfekte Wahl für Grillliebhaber, die Wert auf Qualität, Leistung und Benutzerfreundlichkeit legen. Mit diesem Gasgrill werden Ihre nächsten Grillabende garantiert ein Erfolg!</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "1828961",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown 2-Brenner Gasgrill Knox inklusive Abdeckung",
+              "text": "<p class=\"justify\">Der Jamestown 2-Brenner Gasgrill Knox stellt eine hervorragende Ergänzung für jeden Garten oder Außenbereich dar. Durch sein modernes Design und hohe Funktionalität, bietet der Grill alles, was das Grillerherz begehrt. Mit dem Jamestown Gasgrill kann man in kurzer Zeit ohne Rauch, Anglühen und Schmutz grillen. Er eignet sich sowohl für gemütliche Grillabende mit der Familie als auch für aufregende Grillpartys mit Freunden.</p><p class=\"justify\">Dieser vielseitige Gasgrill wird von der renommierten Marke Jamestown-Grill hergestellt und überzeugt durch seine zwei leistungsstarken, getrennt regulierbaren Edelstahlbrenner mit einer Gesamtleistung von 13,5 kW. Durch die getrennte Regulierung der beiden Brenner können unterschiedliche Temperaturen für direktes und indirektes Grillen gleichzeitig erreicht werden. Zudem verfügt der Grill über einen Seitenbrenner, auf dem Beilagen zubereitet werden können, sowie einen Infrarot-Brenner – ideal zum Angrillen von Steaks.</p><p class=\"justify\">Der Jamestown 2-Brenner Gasgrill Knox besticht durch seine Benutzerfreundlichkeit und den elegant beleuchteten Bedienknöpfen. Der Piezo-Zünder ermöglicht einen schnellen Start, während das Deckelthermometer und der hitzebeständige Glaseinsatz im Deckel die einfache Kontrolle der Temperatur und des Grillgutes ermöglichen. Die großzügige Grillfläche von 47 cm x 44,5 cm bietet ausreichend Platz für die Zubereitung verschiedenster Speisen, während der emaillierte Gusseisen-Grillrost für eine optimale Hitzespeicherung sorgt.</p><p class=\"justify\">Für zusätzlichen Komfort ist dieser Jamestown-Gasgrill mit einem praktischen Warmhalterost und mobilen Rollen ausgestattet, die das Verschieben und Positionieren des Grills erleichtern. Der geräumige Unterschrank bietet Platz für eine Gasflasche von bis zu 11 kg und ermöglicht so ein unauffälliges Verstauen der Energiequelle. Das clevere Modular System erlaubt zudem den Einsatz des Grills für Braten, Backen und als Wok – für noch mehr Grillspaß und Genuss. Die im Lieferumfang enthaltene Abdeckung schützt den Gasgrill vor Wettereinflüssen und sorgt für eine lange Lebensdauer.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "6077457",
+        "seo": {
+          "texts": [
+            {
+              "title": "Rösle Premium Rollen Videro 4er Set: Hochwertiges Grillzubehör",
+              "text": "<p class=\"justify\">Das Rösle Premium Rollen Videro 4er Set ist ein ausgezeichnetes Grillzubehör für Grillliebhaber. Die Rollen zeichnen sich durch ihre hochwertige, umweltfreundliche TPR-Lauffläche aus und ermöglichen ein leises Abrollen ohne Streifen zu hinterlassen. Dies macht sie ideal für empfindliche Böden wie Stein, Marmor oder Granit. Diese Rollen sind nicht nur funktional, sondern auch langlebig und robust, sodass sie bei jedem Grillabenteuer dabei sein können.</p><p class=\"justify\">Das Set besteht aus vier 360° Lenkrollen mit Feststell-Bremse, die für gute Mobilität und Stabilität sorgen. Die Rollen sind einfach zu montieren und passen perfekt zu Ihrem Videro Grill, sodass Sie Ihren Grill mühelos überall hinbewegen können. Die Rösle Premium Rollen Videro sind ein unverzichtbares Grillzubehör und eine Bereicherung für jedes Grill-Setup im Freien.</p><p class=\"justify\">Die Marke Rösle ist bekannt für ihre hochwertigen Produkte und hat sich mit diesem Grillaccessoire erneut selbst übertroffen. Die Rollen beweisen ein Höchstmaß an Qualität und Funktionalität. Es ist kein Wunder, dass das Rösle Premium Rollen Videro 4er Set eine hohe Bewertung von 5 Sternen und viele positive Rezensionen erhalten hat. Damit gehört dieses Zubehör zu den besten verfügbaren Grillutensilien auf dem Markt und ist für jeden Grillenthusiasten eine lohnende Investition.</p><p class=\"justify\">Mit dem Kauf des Rösle Premium Rollen Videro 4er Sets treffen Sie eine gute Entscheidung, die Ihnen langfristig Freude bereiten wird. Der Videro 4er Set vereint hervorragende Qualität, eine benutzerfreundliche Handhabung und Stabilität, die die Erwartungen von Grillfans in Freizeit und den Garten übertrifft. Erfahren Sie selbst, warum das Rösle Premium Rollen Videro 4er Set so viele Grillliebhaber begeistert und setzen Sie auf erstklassige Qualität, die Ihnen hilft, das Beste aus Ihrem Grillabenteuer herauszuholen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "7206915",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown Holzkohle Trichtergrill Ted: Traditionelles Grillen mit rauchigem Aroma",
+              "text": "<p class=\"justify\">Der Jamestown Holzkohle Trichtergrill Ted ist der ideale Begleiter für alle Grillfans, die das traditionelle Grillen mit Kohle, Glut und Raucharomen zelebrieren möchten. Dieser hochwertige Holzkohlegrill aus der Kategorie Holzkohlegrills überzeugt nicht nur durch seine besondere Trichter- oder Säulenform, sondern auch durch seine hervorragende Verarbeitung und einfache Bedienung.</p><p class=\"justify\">Die Säulenform des Grills bietet einige Vorteile, wie zum Beispiel den Lüftungsschieber im unteren Bereich. Durch die Belüftungsschlitze kann die Temperatur optimal reguliert werden, da die Luftzufuhr heruntergeregelt wird, sobald die Kohle Glut hat. Dadurch wird der sogenannte Kaminzugeffekt erzeugt, der es ermöglicht, die Temperatur im Grill perfekt zu kontrollieren. Der Jamestown Holzkohle Trichtergrill Ted bietet so ein unverwechselbares Grillaroma und garantiert erstklassige Grillergebnisse.</p><p class=\"justify\">Der Grill besteht aus pulverbeschichtetem Stahl mit einem stabilen Sockel, der für einen festen Stand sorgt. Der hochwertige Edelstahl-Grillrost verfügt über praktische Griffe, mit denen die Rosthöhe beliebig eingestellt werden kann. Die Rostfläche beträgt 37 cm x 36 cm, was ausreichend Platz für verschiedene Grillgüter bietet. Die Ascheschublade ist herausnehmbar und erleichtert somit die Reinigung des Grills. Der Windschutz schützt die glühenden Kohlen und verbessert zusätzlich das Grillergebnis.</p><p class=\"justify\">Mit dem Jamestown Holzkohle Trichtergrill Ted treffen Sie eine ausgezeichnete Wahl, wenn es um traditionelles Grillen und einen unverwechselbaren Geschmack geht. Genießen Sie erstklassige Grillabende und unvergessliche Momente mit Freunden und Familie, unterstützt durch die herausragende Qualität und Funktionalität dieses Grills.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "8460248",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown 4-Brenner Gasgrill Maddox - Perfektes Grillerlebnis",
+              "text": "<p class=\"justify\">Der Jamestown 4-Brenner Gasgrill Maddox ist ein leistungsstarker und innovativer Gasgrill der Marke Jamestown-Grill, der es Ihnen ermöglicht, köstliche Grillgerichte schnell und effizient zuzubereiten. Das Grillen mit diesem Gasgrill ist einfach und sauber, da er ohne Rauch, Schmutz und Anzünden auskommt. Mit einem breiten Temperaturbereich und der Möglichkeit des direkten und indirekten Grillens können Sie alle Arten von Speisen zubereiten, von Steaks bis hin zu Hähnchen und Gemüse.</p><p class=\"justify\">Der Jamestown Maddox 4-Brenner Gasgrill verfügt über eine großzügige Grillfläche von 71,5 cm x 41,5 cm und vier getrennt regelbare Brenner mit einer beeindruckenden Gesamtleistung von 17,5 kW. Der Grillrost ist aus hochwertigem, emailliertem Gusseisen gefertigt und sorgt für eine gleichmäßige Wärmeverteilung und hervorragende Röstmarkierungen. Mit dem integrierten Deckelthermometer können Sie die Garraumtemperatur optimal steuern, während die Piezo-Zündung für ein schnelles und einfaches Anzünden des Gasgrills sorgt.</p><p class=\"justify\">Der Jamestown 4-Brenner Gasgrill Maddox bietet zudem praktische Extras, wie den integrierten Infrarot-Seitenbrenner \"Devil's Burner\" für das perfekte Angrillen von Steaks bei hohen Temperaturen, einen klappbaren Seitentisch zur Ablage von Grillzubehör und einen geräumigen Unterschrank für die Aufbewahrung von Gasflaschen bis zu 11 kg. Die Rollen ermöglichen einen einfachen Transport des Grills an die gewünschte Grillstelle.</p><p class=\"justify\">Das clevere modulare System dieses Gasgrills bietet noch mehr Vielseitigkeit und Komfort: Wechseln Sie den Einsatz im Grillrost mit nur wenigen Handgriffen aus, um Braten zu garen, Pizza zu backen oder Wok-Gerichte zuzubereiten. Ob für Gartenpartys, Familienfeiern oder einfach nur ein entspanntes Wochenende: Mit dem Jamestown 4-Brenner Gasgrill Maddox werden Ihre Grillabende zu einem vollen Erfolg.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "6077697",
+        "seo": {
+          "texts": [
+            {
+              "title": "Rösle Gasgrill BBQ-Station Magnum Pro G4-S 50 mbar Schwarz - Ein qualitatives Grillvergnügen",
+              "text": "<p class=\"justify\">Entdecken Sie den Rösle Gasgrill BBQ-Station Magnum Pro G4-S 50 mbar Schwarz, ein High-End-Grillgerät der renommierten Marke Rösle. Mit dieser BBQ-Station können Sie ein unvergleichliches Grillvergnügen in Ihrem Garten oder auf Ihrer Terrasse genießen. Ausgestattet mit vier leistungsstarken Hauptbrennern, die jeweils eine Leistung von 4 kW liefern, bietet dieser Gasgrill außergewöhnliche Kochergebnisse.</p><p class=\"justify\">Die Rösle BBQ-Station Magnum Pro G4-S ist ideal für Liebhaber des Grillens und bietet zusätzliche Funktionen wie einen Seitenbrenner mit 6,5 kW Leistung, eine Primezone mit 4,3 kW und einen Infrarot Back Burner mit 4,7 kW. Diese Vielseitigkeit ermöglicht es Ihnen, eine Vielzahl unterschiedlicher Speisen gleichzeitig zuzubereiten und dadurch Ihren Gästen ein außergewöhnliches kulinarisches Erlebnis zu bieten.</p><p class=\"justify\">Das Gerät verfügt über eine Garraum-Innenbeleuchtung über 230 V-Anschluss, so dass Sie auch bei Dämmerung oder Dunkelheit problemlos grillen können. Der geräumige Unterschrank bietet ausreichend Stauraum für Gasflaschen bis zu 11 kg DE und ist somit perfekt für den Einsatz in größeren Gärten oder auf der Terrasse geeignet. Eine AA-Batterie, die für den Betrieb des Grills erforderlich ist, wird bereits im Lieferumfang mitgeliefert.</p><p class=\"justify\">Mit seinen 156 positiven Bewertungen und 4 Sternen bietet der Rösle Gasgrill BBQ-Station Magnum Pro G4-S 50 mbar Schwarz eine hervorragende Qualität und Benutzerzufriedenheit. Erleben Sie ein verbessertes Grillvergnügen mit dieser außergewöhnlichen BBQ-Station von Rösle und verwöhnen Sie Ihre Familie und Freunde mit köstlich gegrillten Speisen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "7847247",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown 2-Brenner Gasgrill Myles: Hochwertiger Grill für unvergessliche Grillmomente",
+              "text": "<p class=\"justify\">Der Jamestown 2-Brenner Gasgrill Myles ist ein hochwertiger Gasgrill der Marke Jamestown-Grill und bietet die perfekte Grundlage für unvergessliche Grillmomente mit Familie und Freunden. Dank seiner leistungsstarken, getrennt regelbaren Edelstahl-Brenner und einer maximalen Durchschnittstemperatur von 450 °C eignet sich dieser Grill hervorragend für direktes und indirektes Grillen, Garen, Braten und sogar Backen. Mit einer Grillfläche von 66 cm x 31 cm (B x T) können bis zu sechs Steaks gleichzeitig zubereitet werden.</p><p class=\"justify\">Der Jamestown 2-Brenner Gasgrill Myles ist mit einem Piezozünder ausgestattet, der einen schnellen Start auf Knopfdruck ermöglicht. Als Brennstoff können Propan- oder Butangas in 5 kg oder 11 kg Flaschen verwendet werden. Der Rost aus hochwertigem, emailliertem Gusseisen speichert die Hitze ideal und sorgt für schmackhafte Grillergebnisse bei saftigen Steaks, frischem Gemüse und Gebäck.</p><p class=\"justify\">Darüber hinaus verfügt der Grill über zahlreiche praktische Extras wie ein integriertes Deckelthermometer, integrierte Rollen und einen Transportgriff für einfachen Transport und flexibles Aufstellen im Garten. Die Seitentische bieten Ablagemöglichkeiten für Grillgut und -utensilien, während die clevere Hakenleiste Grillbesteck oder Grillhandschuhe aufnehmen kann. Bei Nichtgebrauch können die Seitentische unter den Grill geschoben werden, und das zusammenklappbare Gestell ermöglicht eine platzsparende Aufbewahrung.</p><p class=\"justify\">Der Jamestown 2-Brenner Gasgrill Myles ist genau das Richtige für alle Grillfreunde, die Wert auf Qualität, Leistung und Benutzerfreundlichkeit legen. Entdecken Sie dieses großartige Gerät und genießen Sie unvergessliche Grillmomente mit Freunden und Familie. Tauchen Sie ein in die Welt von Jamestown - Taste something different!</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5570288",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown Holzkohle-Grillwagen Ben - Der perfekte Partner für Grillliebhaber",
+              "text": "<p class=\"justify\">Der Jamestown Holzkohle-Grillwagen Ben ist der ideale Begleiter für alle, die echtes Grillvergnügen mit Holzkohle schätzen. Mit seiner großen Grillfläche und der hochwertigen Verarbeitung eignet sich dieser Grill perfekt für gemütliche Grillabende mit Familie und Freunden. Egal ob saftiges Grillfleisch, schmackhafte Burger, zarter Fisch oder gesundes Gemüse – der unverwechselbare Geschmack, den das Grillgut nur durch die Zubereitung mit Holzkohle erhält, wird alle begeistern.</p><p class=\"justify\">Der Holzkohlegrill Ben überzeugt durch seine Robustheit und Langlebigkeit, denn Feuerschale und Gestell sind aus verchromtem Stahl gefertigt. Die schwarze Farbe verleiht dem Grill einen eleganten Look, und das zweigeteilte Grillrost sorgt dafür, dass das Grillgut jederzeit optimal gegart wird. Des Weiteren ermöglicht der Grillwagen auch indirektes Grillen, wodurch weitere Zubereitungsmöglichkeiten eröffnet werden, wie zum Beispiel die Zubereitung eines aromatischen Bratens oder saftigen Rippchen.</p><p class=\"justify\">Der Jamestown Holzkohle-Grillwagen Ben bietet zudem zahlreiche praktische Extras. So verfügt der Grill über großzügige Ablageflächen an der Seite und unterhalb der Feuerschale. Dadurch können alle notwendigen Grillutensilien jederzeit griffbereit untergebracht werden. Die beiden Räder sorgen für eine einfache Handhabung und ermöglichen es, den Grill bequem an die gewünschte Stelle im Garten oder auf der Terrasse zu schieben. Ein Windschutz, der das Grillen auch bei unbeständigem Wetter ermöglicht, und eine Ascheschublade für eine einfache Reinigung des Grills runden das Gesamtpaket ab.</p><p class=\"justify\">Mit dem Jamestown Holzkohle-Grillwagen Ben entscheiden Sie sich für Qualität und Ästhetik gleichermaßen. Grillliebhaber werden von den vielfältigen Einsatzmöglichkeiten und der erstklassigen Verarbeitung begeistert sein. Laden Sie Ihre Lieben ein und genießen Sie gemeinsam unvergessliche Grillmomente!</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5248976",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown Dutch-Oven-Set Dreibein 6-tlg. Schwarz",
+              "text": "<p class=\"justify\">Das Jamestown Dutch-Oven-Set Dreibein 6-tlg. Schwarz ist die perfekte Ergänzung für jeden Grillliebhaber, der traditionelle Kochmethoden schätzt. Die Marke Jamestown-Grill ist bekannt für ihre qualitativ hochwertigen Grillzubehörteile und bietet mit diesem Set ein komplettes Outdoor-Kocherlebnis an. Es eignet sich ideal zum Braten, Schmoren, Kochen, Frittieren oder Dünsten direkt über der Glut.</p><p class=\"justify\">Das 6-teilige Set besteht aus massivem Gusseisen für eine robuste Ausführung und beinhaltet einen gusseisernen Topf mit Ø 31 cm, eine gusseiserne Pfanne mit Ø 35 cm, ein Grillrost aus rostfreiem Stahl mit Ø 40 cm, einen Deckelheber, einen verzinkten Untersetzer für mehr Abstand zum Feuer und ein Dreibein aus lackiertem Stahl. Die Oberfläche ist mit einem speziellen Pflanzenöl vorbehandelt, um einer Rostentstehung vorzubeugen.</p><p class=\"justify\">Ein weiteres Highlight dieses Dutch-Oven-Sets ist die dekorative Holztruhe zur Aufbewahrung, die im Lieferumfang enthalten ist. Dank der Truhe können Sie das Set bequem transportieren und stilvoll aufbewahren, wenn es nicht im Einsatz ist.</p><p class=\"justify\">Mit der GTIN13 4048126086481 und der SKU 5248976, ist das Jamestown Dutch-Oven-Set ein hochwertiges Produkt aus der Kategorie Holzkohlegrills und eignet sich perfekt für die Nutzung im eigenen Garten oder bei einem gemütlichen Campingausflug mit Familie und Freunden. Entdecken Sie das traditionelle Kochen über offenem Feuer und gönnen Sie sich dieses hochwertige Set von Jamestown-Grill.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "7206972",
+        "seo": {
+          "texts": [
+            {
+              "title": "Jamestown Holzkohlegrill Finn - Die ideale Ergänzung für Ihren Grillgenuss",
+              "text": "<p class=\"justify\">Der Jamestown Holzkohlegrill Finn ist für alle Grill-Enthusiasten, die das klassische Grillvergnügen mit Holzkohle schätzen. Dieser Grill der Marke Jamestown-Grill ist perfekt für romantische Abende im Garten oder für gesellige Feste und Familienfeiern geeignet. Er überzeugt vor allem durch seine Funktionalität und sein ansprechendes Design.</p><p class=\"justify\">Der Holzkohlegrill Finn hat eine großzügige Grillfläche von 50 cm x 30 cm (B x T), die ausreichend Platz für eine Vielzahl von Grillgut bietet. Der Edelstahlrost ist höhenverstellbar, sodass Sie die Temperatur nach Ihren Wünschen steuern können. Indirektes Grillen ist mit diesem Grill ebenfalls möglich, um Ihre Speisen schonender zuzubereiten und besonders saftig und schmackhaft zu machen.</p><p class=\"justify\">Das Gehäuse des Holzkohlegrills besteht aus robustem Stahl in einer eleganten Silberoptik. Darüber hinaus verfügt der Jamestown Finn über einen praktischen Windschutz, der das Grillgut und die Glut zusätzlich schützt und das Grillen erleichtert. Die integrierte Grillspieß-Halterung ermöglicht zudem das bequeme Aufhängen eines Grillspießes für noch mehr Vielfalt beim Grillen.</p><p class=\"justify\">Jamestown-Grill ist bekannt für seine qualitativ hochwertigen und langlebigen Grillgeräte, die ideal für Grillliebhaber sind, die großen Wert auf Geschmack und Qualität legen. Der Jamestown Holzkohlegrill Finn zeugt von echter Qualität und sorgt für unvergessliche Grillabende mit Freunden und Familie. Überzeugen Sie sich selbst von diesem klassischen Holzkohlegrill und machen Sie Ihre Grillabende zum Erfolg!</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "6077739",
+        "seo": {
+          "texts": [
+            {
+              "title": "Rösle BBQ-Station Videro G3-S Vario+ Nero 50mbar Edelschwarz Jubiläumsmodell",
+              "text": "<p class=\"justify\">Das Rösle BBQ-Station Videro G3-S Vario+ Nero 50mbar Edelschwarz Jubiläumsmodell ist ein herausragendes Gasgrillgerät, das sich optimal für Grillbegeisterte eignet. Diese Sonderedition in mattem Schwarz besticht durch ihre stilvolle Optik und die vielfältigen Funktionen, die perfektes Grillen ermöglichen. In der Kategorie Gasgrills hebt sich dieses Modell von Rösle deutlich von der Konkurrenz ab.</p><p class=\"justify\">Mit drei Hauptbrennern aus Edelstahl, die jeweils eine Leistung von 3,5 kW bieten, sorgt die Rösle BBQ-Station Videro G3-S Vario+ Nero 50mbar Edelschwarz Jubiläumsmodell für leistungsstarke und gleichmäßige Hitzeverteilung. Die im linken Seitentisch verbaute Primezone bietet bei 800 °C ein besonders krosses Finish für das Grillgut. Der zusätzliche Seitenbrenner mit 3,0 kW und einem massiven Halter aus Gusseisen eignet sich hervorragend zum Zubereiten von Beilagen oder Saucen. Ob Fleisch-, Fisch- oder Gemüsegerichte – dieses Gasgrill-Modell ermöglicht vielfältige Zubereitungsmöglichkeiten.</p><p class=\"justify\">Das Rösle BBQ-Station Videro G3-S Vario+ Nero 50mbar Edelschwarz Jubiläumsmodell verfügt zudem über einen großzügigen Stauraum im Unterschrank, der Platz für Grillwerkzeuge und Zubehör bietet. Die Bedienung der Grilleinheit ist dank der übersichtlichen und leicht zugänglichen Knöpfe sehr benutzerfreundlich gestaltet. Die fünf zum Betrieb erforderlichen AA-Batterien sind bereits im Lieferumfang enthalten, sodass das Grillerlebnis sofort beginnen kann.</p><p class=\"justify\">Mit 381 Bewertungen und einer fünf-Sterne-Bewertung überzeugt dieses Rösle Gasgrill-Modell nicht nur durch sein ansprechendes Design und seine effektive Leistung, sondern ist auch bei den Kunden sehr beliebt. Das Rösle BBQ-Station Videro G3-S Vario+ Nero 50mbar Edelschwarz Jubiläumsmodell ist der ideale Begleiter für unvergessliche Grillabende und ein wahres Must-Have für jeden Grillenthusiasten.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5358452",
+        "seo": {
+          "texts": [
+            {
+              "title": "El Fuego Gasgrill-Smoker Portland SF: Vielseitiger Grillgenuss",
+              "text": "<p class=\"justify\">Entdecken Sie den El Fuego Gasgrill-Smoker Portland SF, der perfekte Begleiter für alle Grillliebhaber. Speisen Sie gerne mit der Familie oder Freunden im Garten? Dann ist dieser Gasgrill genau das Richtige für Sie. Die Marke EL Fuego ist bekannt für ihre qualitativ hochwertigen Produkte, die Ihren Garten- und Freizeitbereich bereichern. Der Gasgrill-Smoker Portland SF (SKU: 5358452) ist ein echter Allrounder und bietet eine Vielzahl an Zubereitungsmöglichkeiten.</p><p class=\"justify\">Dieser leistungsstarke Gasgrill kann nicht nur als herkömmlicher Grill, sondern auch als Räucherofen oder Dampfgarer verwendet werden. Mit einer Grillfläche von etwa 35 x 24 cm bietet der Gasgrill-Smoker genügend Platz für verschiedenste Speisen und Beilagen. Dank der 4,4 kW Leistung wird die Garkammer schnell und gleichmäßig erhitzt – ideal für ein perfektes Garergebnis.</p><p class=\"justify\">Ein besonderes Highlight des El Fuego Gasgrill-Smokers Portland SF ist die abgesetzte Feuerbox. Sie maximiert das Nutzvolumen der Garkammer und erleichtert die Steuerung der Befeuerung. Mit der integrierten Räucherbox können Aromahölzer Ihrer Wahl zum Glimmen gebracht werden, um den Grill als Smoker zu betreiben. Ein eingebautes Thermometer hilft Ihnen dabei, stets die ideale Gartemperatur im Blick zu behalten.</p><p class=\"justify\">Lassen Sie sich von dem El Fuego Gasgrill-Smoker Portland SF begeistern und genießen Sie vielfältige Zubereitungsmöglichkeiten für köstliche Grillgerichte. Mit diesem Gasgrill erleben Sie eine unkomplizierte Bedienung und eine ausgezeichnete Qualität, die all Ihre Grillbedürfnisse erfüllt.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "9524604",
+        "seo": {
+          "texts": [
+            {
+              "title": "Buschbeck Feuerschale Eisen 120 cm",
+              "text": "<p class=\"justify\">Entdecken Sie die Buschbeck Feuerschale Eisen 120 cm, eine hochwertige Feuerschale, die für stimmungsvolle Abende im Freien sorgt. Diese Feuerschale der Marke Buschbeck besticht durch ihre moderne Form und die stabile Verarbeitung, die für Langlebigkeit und Robustheit sorgt. Durch die seitlich angebrachten Henkel kann die Feuerschale einfach umpositioniert und ihren Bedürfnissen entsprechend flexibel eingesetzt werden. Dank der drei Beine steht die Feuerschale sicher und stabil, sodass ein unbeschwertes Lagerfeuererlebnis ermöglicht wird.</p><p class=\"justify\">Die Buschbeck Feuerschale Eisen 120 cm ist für die Verwendung von Holz, Holzkohle oder Briketts konzipiert, sodass Sie die für Sie geeignetste Brennstoffart wählen können, um ein loderndes Feuer für gemütliche Stunden im Garten oder auf der Terrasse zu entfachen. Die Feuerschale kommt ohne Abflussloch, was Flecken durch Tropfwasser verhindert und dafür sorgt, dass sie stets sauber und ansprechend aussieht.</p><p class=\"justify\">Genießen Sie die behagliche Lagerfeueratmosphäre im Outdoorbereich, die diese Buschbeck Feuerschale Eisen 120 cm schafft. Ob für gesellige Zusammenkünfte mit Freunden, romantische Abende zu zweit oder entspannte Stunden alleine – die Buschbeck Feuerschale zaubert eine wohlig-warme Stimmung und wartet darauf, Ihnen unvergessliche Momente unter dem Sternenhimmel zu bescheren. Mit einer Größe von 120 cm bietet sie ausreichend Platz für ein großes Feuer und sorgt für eine angenehme Wärme an kühleren Abenden. Lassen Sie sich von der hohen Qualität und der ansprechenden Optik der Buschbeck Feuerschale Eisen 120 cm überzeugen und bereichern Sie Ihren Garten oder Ihre Terrasse mit diesem attraktiven und funktionalen Highlight.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "9459116",
+        "seo": {
+          "texts": [
+            {
+              "title": "Remundi Feuerplatte Zelos M Basic: Der perfekte Begleiter für gemütliche Grillabende",
+              "text": "<p class=\"justify\">Die Remundi Feuerplatte Zelos M Basic ist ein hochwertiges und vielseitiges Grillgerät, das sich perfekt für gesellige Grillabende mit Familie und Freunden eignet. Diese Feuerplatte überzeugt durch ihre klaren Formen und großzügigen Grillflächen, die verschiedene Temperaturzonen aufweisen und somit ein gleichzeitiges Zubereiten verschiedener Speisen ermöglichen.</p><p class=\"justify\">Die massive Stahlplatte ermöglicht eine ideale Hitzeverteilung und Temperaturen im Bereich von 100°C bis 350°C. So können Sie gleichzeitig Steaks, Würstchen, Filets und Meeresfrüchte sowie Beilagen wie Kartoffeln, Gemüse und sogar Brote zubereiten. Zudem ist es möglich, Burger Patties mit Käse zu überbacken oder Gemüse zu dünsten. Die Remundi Feuerplatte Zelos M Basic ist somit die ideale Lösung für gemeinsames, entspanntes Grillen.</p><p class=\"justify\">Neben den kulinarischen Möglichkeiten ist diese Feuerplatte auch eine exklusive Feuerstelle für gemütliche Lagerfeuer. Nach dem Grillen können Sie einfach Feuerholz nachlegen und die angenehme Wärme und Atmosphäre rund um das Feuer genießen. Die Remundi Feuerplatte Zelos M Basic vereint also Grillgerät und Feuerstelle in einem ansprechenden Design und ist somit eine praktische Ergänzung für Ihren Garten oder Ihre Terrasse.</p><p class=\"justify\">Um die Langlebigkeit und Funktion der Feuerplatte zu gewährleisten, sollten Sie einige Punkte bei der Pflege und Reinigung beachten. Vor der ersten Verwendung sollte die Stahlplatte eingebrannt werden. Dazu eignet sich ein hoch erhitzbares Speiseöl wie beispielsweise Sonnenblumenöl. Die Platte wird vor dem Erhitzen großzügig eingeölt und dann mit hohen Temperaturen erhitzt. So entsteht eine schützende Patina, die das Anhaften der Speisen verhindert. Die Stahlplatte sollte nach jedem Grillvorgang wieder gut eingeölt werden.</p><p class=\"justify\">Die Oberflächenveredelung des Sockels und der Feuerschale dient nicht nur einer rustikalen Optik, sondern auch als natürlicher Schutz gegen Durchrostung. Dennoch empfiehlt es sich, die Feuerstelle mit einer passenden Abdeckhaube vor Witterung zu schützen. So verhindern Sie Verunreinigungen der Stahlplatte und beugen Roststellen vor. Sollte es dennoch einmal zu Rost an der Platte gekommen sein, lässt sich dieser im heißen Zustand leicht entfernen: Einfach Öl auf die Platte geben und mit einem Küchenpapier entfernen.</p>"
+            }
+          ]
+        }
+      },
+      {
+        "sku": "5570361",
+        "seo": {
+          "texts": [
+            {
+              "title": "Holzkohlegrill in Fassform Schwarz von Sonstige",
+              "text": "<p class=\"justify\">Der Holzkohlegrill in Fassform Schwarz von Sonstige ist ein wunderbarer Begleiter für jede Grillparty. Mit seiner großen Grillfläche von 71 cm x 35,5 cm bietet er genügend Platz, um für viele Personen schmackhafte Grillgerichte zuzubereiten. Seine robuste Verarbeitung sorgt für eine gute Hitzeverteilung und ermöglicht es Ihnen, sowohl direkt als auch indirekt zu grillen. Der Deckel des Grills unterstützt das indirekte Grillen und macht das Grillgut besonders saftig.</p><p class=\"justify\">Mit den Lüftungsreglern können Sie die Temperatur individuell regulieren und anpassen, wodurch Ihnen eine gleichmäßige Hitzeverteilung auf der großzügigen Grillfläche gelingt. Zudem verfügt der Holzkohlegrill in Fassform Schwarz über einen praktischen Warmhalterost, auf dem Sie fertige Speisen warmhalten oder Brot und Baguette rösten können. Die vier Standbeine bieten einen festen Stand während des Grillens und sorgen für zusätzliche Stabilität.</p><p class=\"justify\">Aufgrund der einfachen und unkomplizierten Montage ist dieser Grill schnell einsatzbereit und wird Ihnen und Ihren Gästen beim Grillen viel Freude bereiten. Die fassförmige Optik in schwarzem Design macht den Grill zudem zu einem optischen Highlight in Ihrem Garten oder auf Ihrer Terrasse. Der Holzkohlegrill in Fassform Schwarz von Sonstige – für unvergessliche Grillabende mit Familie und Freunden.</p>"
+            }
+          ]
         }
       }
     ]
   },
   "categorySeo": {
-    "defaultTitle": "$KATEGORIE | g\u00fcnstig online kaufen",
-    "defaultMetaDescription": "Premium Grills jetzt online kaufen. W\u00e4hlen Sie aus unserer Auswahl an $KATEGORIEN zum g\u00fcnstigen Preis. Top Service und schneller Versand.",
+    "defaultTitle": "$KATEGORIE | günstig online kaufen",
+    "defaultMetaDescription": "Premium Grills jetzt online kaufen. Wählen Sie aus unserer Auswahl an $KATEGORIEN zum günstigen Preis. Top Service und schneller Versand.",
     "defaultRobots": "index, follow",
     "categories": [
       {
@@ -162,8 +336,8 @@
         "slug": "sporthosen",
         "name": "Sporthosen",
         "seo": {
-          "title": "Sporthosen g\u00fcnstig kaufen",
-          "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+          "title": "Sporthosen günstig kaufen",
+          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
           "robots": "index, follow",
           "texts": [
             {
@@ -181,15 +355,15 @@
   },
   "brandSeo": {
     "defaultTitle": "Top Grills von $HERSTELLER",
-    "defaultMetaDescription": "Hersteller wie $HERSTELLER werden aufgrund ihrer Qualit\u00e4t hochgesch\u00e4tzt und wir bieten diese an. Gro\u00dfe Auswahl \u2713 G\u00fcnstig \u2713 Schneller Versand \u2713",
+    "defaultMetaDescription": "Hersteller wie $HERSTELLER werden aufgrund ihrer Qualität hochgeschätzt und wir bieten diese an. Große Auswahl ✓ Günstig ✓ Schneller Versand ✓",
     "defaultRobots": "index, follow",
     "brands": [
       {
         "key": "palm",
         "name": "Palm",
         "seo": {
-          "title": "Produkte von Palm g\u00fcnstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+          "title": "Produkte von Palm günstig kaufen",
+          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
           "robots": "index, follow"
         }
       }
